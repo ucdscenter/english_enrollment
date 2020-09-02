@@ -1,0 +1,298 @@
+</!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="/ext/ext/css/bootstrap.min.css">
+	<style>
+		.dot {
+			fill:black;
+			}
+
+
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+
+.nodes {
+  stroke: #fff;
+  stroke-width: .1px;
+  opacity: .7
+}
+.selected {
+	stroke: red;
+	stroke-width: 1px;
+	opacity: 1
+}
+
+	</style>
+</head>
+<body>
+<div class="container-fluid">
+	<div class="row">
+	<div class="col-lg-12">
+		<h1>English Class Enrollment</h1>
+	</div>
+</div>
+<div class="row">
+	<div class="col-lg-12" id="graph">
+	</div>
+</div>
+</div>
+<script src="/ext/ext/jquery.min.js"></script>
+<script src='/ext/ext/d3.v4.min.js'></script>
+<script src="/ext/ext/color-hash.js"></script>
+
+<script>
+	'use strict'
+	let margins = {top: 10, bottom: 10, left: 65, right: 10}
+	var colorHash = new ColorHash();
+	let w = $(window).width() - 50
+	let h = 1000// - 100
+
+	let legendH = 150
+
+	let graph = d3.select('#graph')
+		.append("svg")
+		.attr('x', 0)
+		.attr('y', 100)
+		.attr('height', h)
+		.attr('width', w)
+		.attr('id', "graph"); 
+
+	let legendBubbles = graph.append("g").attr('id', 'legend')
+		.attr('width', w - margins.left - margins.right)
+		.attr('height', legendH)
+		.attr("transform", "translate(" + margins.left + "," + margins.top + ")")
+
+	let forceGraph = graph.append("g")
+				.attr("id", "stackedbar")
+				.attr("width", w - margins.left - margins.right)
+				.attr("height", h - legendH)
+				.attr("transform", "translate(" + margins.left + "," + (margins.top + legendH) + ")")
+
+	var simulation = d3.forceSimulation()
+    .force("link", d3.forceLink().id(function(d) { return d.id; }))
+    .force("charge", d3.forceManyBody().strength(-8))
+    .force("center", d3.forceCenter(((w + margins.left)/ 2), (h - legendH) / 2))
+    .force("y", d3.forceY(-100))
+    .force("x", d3.forceX(-100));
+
+		
+
+
+	//window.addEventListener("resize", resizeGraph)
+
+	function resizeGraph(){
+		console.log("resizing")
+		w = $(window).width() - 50
+		h = $(window).height() - 100
+
+		graph.attr('height', h)
+			.attr('width', w)
+	}
+
+
+
+	async function getData(){
+		d3.json("eng_formatted.json", function(error, data){
+			if (error) throw error;
+			render(data)
+			});
+	}
+
+	getData()
+
+	function renderLegend(legend_d){
+
+		let legend_d_s = legend_d.sort(function(a,b){
+				return b.count - a.count;
+			})
+
+		let legend_g = legendBubbles.selectAll(".g_bubbles")
+			.data(legend_d)
+			.enter()
+
+			.append("g")
+			.attr("transform", function(d, i){
+				let x = i * ((w - 100) / (legend_d.length - 1))
+				return "translate(" + x +  ","+ 100 +  ")"
+			})
+			.attr("class", function(d){
+				return d3.select(this).attr("class") +  " nodes " + d.name.replace(/ /g, '_')
+			}).on("click", function(d){
+				//console.log(d.name.replace(/ /g, '_'))
+				d3.selectAll('.' + d.name.replace(/ /g, '_'))
+					.attr('r', function(d){
+						if (d3.select(this).classed('nodes')){
+							return 5;
+						}
+						return 2
+					})
+					//.transition()
+					//.duration(1000)
+					.classed('nodes', function(d){
+		
+						return !d3.select(this).classed('nodes')
+					})
+					.classed('selected',  function(d){
+						return !d3.select(this).classed('selected')
+					})
+
+			}).style('cursor', 'pointer')
+
+		legend_g.append("rect")
+			.style("fill", function(d){
+			
+				return colorHash.hex(d.name)
+			})
+			.attr("x", function(d){
+				return (- (((w - 100) / (legend_d.length - 1))) + 4 )
+			})
+			.attr("y", function(d){
+				return - (Math.PI * (Math.sqrt(d.count)))
+			})
+			.attr("height", function(d){
+				return Math.PI * (Math.sqrt(d.count))
+			})
+			.attr("width", function(d){
+				return ((w - 100) / (legend_d.length - 1)) - 3})
+			.style("opacity", 1)
+
+
+		legend_g.append("text")
+			.attr("x", 3)
+			.attr("y", 4)
+			.attr("transform", "rotate(90)")
+			.style("font-size", 8)
+			.style('opacity', 1.3)
+			.text(function(d){
+				return " " + d.name + ": " + d.count
+			})
+
+
+
+		return legend_g
+	}
+
+
+	async function render(data, legend_d){
+
+		let legend = renderLegend(data.plan);
+
+		let force = await renderForce(data);
+
+	}
+
+	function renderForce(data){
+		let nodes = data.nodes
+		let links = data.links
+
+		var link = forceGraph.append("g")
+      .attr("class", "links")
+    .selectAll("line")
+    .data(links)
+    .enter().append("line")
+      .attr("stroke-width", function(d) { return Math.sqrt(d.value); });
+
+  var nodeG = forceGraph.append("g")
+      .attr("class", "nodes")
+
+  let node = nodeG
+    .selectAll("circle")
+    .data(nodes)
+    .enter().append("circle")
+      .attr("r", function(d){
+      	if (d.info.count < 10){
+      		return 2
+      	}
+      	return 3 * Math.sqrt(d.info.count)/ Math.PI;
+      })
+      .attr("fill", function(d) { if( d.info.planA == undefined){
+      	return "black"
+      }
+      else{
+      	return colorHash.hex(d.info.planA)
+
+      }})
+      //.style('opacity', .7)
+      .attr("class", function(d){
+      	let plan = d.info.planA
+      	//plan.replace(/ /g, '_')
+      	if (d.info.planA != undefined){
+      		return "nodes " + d.info.planA.replace(/ /g, '_')
+      	} 
+      	return "nodes"
+      })
+      .on("mouseover", function(d){
+      	console.log(d)
+      })
+      .call(d3.drag()
+          .on("start", dragstarted)
+          .on("drag", dragged)
+          .on("end", dragended));
+
+    let nodetext = nodeG.selectAll('.text').data(nodes)
+    	.enter().append("text")
+    		.style('font-size', 6)
+    		.style('stroke', 'black')
+    		.style('stroke-width', 1)
+    		.text(function(d){
+    			if (d.student == 1){
+    				d3.select(this).remove()
+    			}
+    		return d.id
+    		})
+simulation
+      .nodes(nodes)
+      .on("tick", ticked);
+
+  simulation.force("link")
+      .links(links)
+      .distance(10);
+
+
+
+    function ticked() {
+   	node
+        .attr("cx", function(d) { return d.x = Math.max(2, Math.min((w - margins.left - margins.right), d.x)); })
+        .attr("cy", function(d) { return d.y = Math.max(2, Math.min(h - legendH, d.y)); });
+
+     nodetext.attr("x", function(d) { return d.x = Math.max(2, Math.min((w - margins.left - margins.right), d.x)); })
+        .attr("y", function(d) { return d.y = Math.max(2, Math.min(h - legendH, d.y)); });
+
+    link
+        .attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+
+  
+ 
+  }
+}
+
+
+
+function dragstarted(d) {
+  if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+  d.fx = d.x;
+  d.fy = d.y;
+}
+
+function dragged(d) {
+  d.fx = d3.event.x;
+  d.fy = d3.event.y;
+}
+
+function dragended(d) {
+  if (!d3.event.active) simulation.alphaTarget(0);
+  d.fx = null;
+  d.fy = null;
+}
+
+
+
+
+</script>
+</body>
+</html>

@@ -1,0 +1,5340 @@
+{
+    "nodes": [
+        {
+            "info": {
+                "count": 15, 
+                "code": "3036"
+            }, 
+            "id": "FILM COMEDY", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 20, 
+                "code": "2017"
+            }, 
+            "id": "INTRO POETRY WRIT", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 12, 
+                "code": "2067"
+            }, 
+            "id": "TOPICS IN FILM", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 14, 
+                "code": "7056"
+            }, 
+            "id": "THEORY SHORT STORY", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 16, 
+                "code": "3022"
+            }, 
+            "id": "WRITING SCIFI & FANTASY", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 12, 
+                "code": "3074"
+            }, 
+            "id": "RHET OF SOC MEDIA", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 7, 
+                "code": "3069"
+            }, 
+            "id": "MODERN ASIAN FICTION", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 11, 
+                "code": "5117"
+            }, 
+            "id": "SR SEMINAR POETRY", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 6, 
+                "code": "9098"
+            }, 
+            "id": "INDEPENDENT STUDY", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 35, 
+                "code": "2008"
+            }, 
+            "id": "AMER LIT SURVEY II", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 10, 
+                "code": "9096"
+            }, 
+            "id": "PROF PRACTICE", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 67, 
+                "code": "1018"
+            }, 
+            "id": "FRESH SEM ENGLISH", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 344, 
+                "code": "4092"
+            }, 
+            "id": "TECH/SCI WRITING", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 3, 
+                "code": "9090"
+            }, 
+            "id": "MA THESIS", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 18, 
+                "code": "3090"
+            }, 
+            "id": "LIT AND MEDICINE", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 21, 
+                "code": "2007"
+            }, 
+            "id": "AMER LIT SURVEY I", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 34, 
+                "code": "3000"
+            }, 
+            "id": "INTRO ENGL STUDIES", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 4, 
+                "code": "4099"
+            }, 
+            "id": "INTERN RHET/PW", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 11, 
+                "code": "3059"
+            }, 
+            "id": "INTR RHET/PROF WRIT", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 25, 
+                "code": "3025"
+            }, 
+            "id": "INTR TO CRIT THEORY", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 36, 
+                "code": "9099"
+            }, 
+            "id": "RESEARCH", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 71, 
+                "code": "2011"
+            }, 
+            "id": "INTRO CREA WRIT FIC", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 14, 
+                "code": "3033"
+            }, 
+            "id": "WRTG SHORT SHORTS", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 21, 
+                "code": "3076"
+            }, 
+            "id": "WRITING WITH STYLE", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 93, 
+                "code": "2003"
+            }, 
+            "id": "HARRY POTTER", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 12, 
+                "code": "4001"
+            }, 
+            "id": "SEMINAR: BRIT LIT", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 19, 
+                "code": "3015"
+            }, 
+            "id": "POETRY AND SOUND", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 5, 
+                "code": "2051"
+            }, 
+            "id": "WOM/OUTRAG WRITINGS", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 11, 
+                "code": "3030"
+            }, 
+            "id": "WRITING LOVE POEM", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 11, 
+                "code": "8054"
+            }, 
+            "id": "PROBS AM REAL & NAT", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 8, 
+                "code": "7011"
+            }, 
+            "id": "GRAD FICTION WKSHP", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 35, 
+                "code": "3006"
+            }, 
+            "id": "INTRO SHAKESPEARE", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 60, 
+                "code": "4091"
+            }, 
+            "id": "BUSINESS WRITING", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 20, 
+                "code": "2013"
+            }, 
+            "id": "INTRO CREA NONFIC", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 42, 
+                "code": "2047"
+            }, 
+            "id": "INTRO LINGUISTICS", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 9, 
+                "code": "3062"
+            }, 
+            "id": "SCI WRITING IN BEHAV SCIENCES", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 46, 
+                "code": "9095"
+            }, 
+            "id": "TEACHING", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 11, 
+                "code": "7036"
+            }, 
+            "id": "MTHD TEACH CW", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 5, 
+                "code": "7021"
+            }, 
+            "id": "GRAD NONFICTION WKSHP", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 66, 
+                "code": "2022"
+            }, 
+            "id": "WORLD LITERATURE II", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 14, 
+                "code": "4012"
+            }, 
+            "id": "INTERMED CW FICTION", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 11, 
+                "code": "3056"
+            }, 
+            "id": "WRT COMIC POETRY & PROSE", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 13, 
+                "code": "7029"
+            }, 
+            "id": "CONTENT MANAGEMENT", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 13, 
+                "code": "3069"
+            }, 
+            "id": "WEB AUTHORING", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 16, 
+                "code": "2002"
+            }, 
+            "id": "TOPICS LIT", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 7, 
+                "code": "7030"
+            }, 
+            "id": "TEACH COLL WRITING", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 18, 
+                "code": "2080"
+            }, 
+            "id": "US ETHNIC LIT", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 8, 
+                "code": "7095"
+            }, 
+            "id": "PROF WRIT CAPSTONE", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 20, 
+                "code": "2054"
+            }, 
+            "id": "WOMEN'S LITERATURE", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 29, 
+                "code": "2015"
+            }, 
+            "id": "INTRO SCREENWRT", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 9, 
+                "code": "7129"
+            }, 
+            "id": "GENDER/SEXUALITY/CULTURE", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 2, 
+                "code": "7030"
+            }, 
+            "id": "INTERNSHIP", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 13, 
+                "code": "7091"
+            }, 
+            "id": "CONTEMP AMER FICT", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 17, 
+                "code": "7043"
+            }, 
+            "id": "SCIENCE & HEALTH", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 2, 
+                "code": "3099"
+            }, 
+            "id": "INDIVIDUAL WORK", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 40, 
+                "code": "2061"
+            }, 
+            "id": "FANTASIES CHILD LIT", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 8, 
+                "code": "7020"
+            }, 
+            "id": "THEORIES: COMPOSING", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 15, 
+                "code": "3055"
+            }, 
+            "id": "CREATIVE WRT FROM REAL LIFE", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 33, 
+                "code": "2034"
+            }, 
+            "id": "SURVEY ENG LIT I", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 6, 
+                "code": "1051"
+            }, 
+            "id": "INTRO FILM STUDIES", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 9, 
+                "code": "7040"
+            }, 
+            "id": "RHETORIC", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 1, 
+                "code": "5010"
+            }, 
+            "id": "INTERNSHIP ENGLISH", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 16, 
+                "code": "3005"
+            }, 
+            "id": "PEER TUTORING", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 15, 
+                "code": "3053"
+            }, 
+            "id": "WRITING FICTION IN DIGITAL AGE", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 39, 
+                "code": "3070"
+            }, 
+            "id": "DESKTOP PUBLISHING", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 22, 
+                "code": "3086"
+            }, 
+            "id": "FORMS OF FICTION", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 2, 
+                "code": "4029"
+            }, 
+            "id": "GNDR/SEX/CULTURE", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 12, 
+                "code": "2082"
+            }, 
+            "id": "AFRIC AMER POETRY", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 1342, 
+                "code": "1001"
+            }, 
+            "id": "ENGLISH COMP", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 32, 
+                "code": "2075"
+            }, 
+            "id": "INTRO TO LIT", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 8, 
+                "code": "7017"
+            }, 
+            "id": "GRAD POET WKSHOP", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 21, 
+                "code": "2016"
+            }, 
+            "id": "SCRIPT TO SCREEN", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 12, 
+                "code": "5095"
+            }, 
+            "id": "RHET/PW CAPSTONE", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 1544, 
+                "code": "2089"
+            }, 
+            "id": "INTERMEDIATE COMP", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 15, 
+                "code": "5114"
+            }, 
+            "id": "SR WRIT SEM: CW AND RESEARCH", 
+            "student": -1
+        }, 
+        {
+            "info": {
+                "count": 13
+            }, 
+            "id": "International Business", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 18
+            }, 
+            "id": "Biochemistry", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 47
+            }, 
+            "id": "Interdisciplinary", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 28
+            }, 
+            "id": "Mathematics - BS", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 6
+            }, 
+            "id": "Early Childhood Care & Educati", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 10
+            }, 
+            "id": "Mathematics - BA", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 69
+            }, 
+            "id": "Psychology - BA", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 9
+            }, 
+            "id": "Philosophy", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 47
+            }, 
+            "id": "Organizational Leadership", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 14
+            }, 
+            "id": "Entrepreneurship", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 9
+            }, 
+            "id": "Anthropology", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 81
+            }, 
+            "id": "Psychology - BS", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 46
+            }, 
+            "id": "Computer Science", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 24
+            }, 
+            "id": "Pre Pharmacy", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 15
+            }, 
+            "id": "English Literature - BX", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 35
+            }, 
+            "id": "Music", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 8
+            }, 
+            "id": "Advanced Medical Imaging Tech", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 6
+            }, 
+            "id": "Athletic Training", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 352
+            }, 
+            "id": "English Literature - BA", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 101
+            }, 
+            "id": "Nursing", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 14
+            }, 
+            "id": "Pre-Business Administration", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 6
+            }, 
+            "id": "Musical Theater", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 5
+            }, 
+            "id": "Freshman Engineering Program", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 102
+            }, 
+            "id": "Early Childhood Education", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 8
+            }, 
+            "id": "Social Work", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 82
+            }, 
+            "id": "Electrical Engineering", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 9
+            }, 
+            "id": "Geology - BS", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 24
+            }, 
+            "id": "Liberal Arts", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 8
+            }, 
+            "id": "Industrial Management", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 8
+            }, 
+            "id": "Electrical Engineering Tech", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 744
+            }, 
+            "id": "Exploratory", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 47
+            }, 
+            "id": "Industrial Design", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 109
+            }, 
+            "id": "Secondary Education", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 8
+            }, 
+            "id": "Graphic Communication Design", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 28
+            }, 
+            "id": "Health Education", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 58
+            }, 
+            "id": "Comm Sciences and Disorders", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 5
+            }, 
+            "id": "Interior Design", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 7
+            }, 
+            "id": "Urban Planning", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 5
+            }, 
+            "id": "Pre-Fine Arts", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 47
+            }, 
+            "id": "MA Professional Writing", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 6
+            }, 
+            "id": "Economics", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 87
+            }, 
+            "id": "MISC", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 54
+            }, 
+            "id": "Medical Sciences", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 15
+            }, 
+            "id": "Drama", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 21
+            }, 
+            "id": "Architecture", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 16
+            }, 
+            "id": "Biological Sciences", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 5
+            }, 
+            "id": "Chemistry", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 34
+            }, 
+            "id": "Biomedical Engineering", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 7
+            }, 
+            "id": "Women's, Gender, & Sex Studies", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 11
+            }, 
+            "id": "Physics - BS", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 28
+            }, 
+            "id": "Non-Matriculated", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 17
+            }, 
+            "id": "Dietetics", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 131
+            }, 
+            "id": "Criminal Justice", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 32
+            }, 
+            "id": "Civil Engineering", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 26
+            }, 
+            "id": "Computer Engineering", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 7
+            }, 
+            "id": "Music Education", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 5
+            }, 
+            "id": "Senior Audit", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 8
+            }, 
+            "id": "Real Estate", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 33
+            }, 
+            "id": "Theater Design and Production", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 67
+            }, 
+            "id": "Fine Arts - Art", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 9
+            }, 
+            "id": "Acting", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 56
+            }, 
+            "id": "Neuroscience - BS", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 56
+            }, 
+            "id": "Political Science", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 181
+            }, 
+            "id": "English & Comp Literature", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 44
+            }, 
+            "id": "Health Sciences", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 54
+            }, 
+            "id": "Finance", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 86
+            }, 
+            "id": "Mechanical Engineering", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 176
+            }, 
+            "id": "Biological Sciences - BS", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 6
+            }, 
+            "id": "Arabic Language and Culture", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 5
+            }, 
+            "id": "Architectural Engineering", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 68
+            }, 
+            "id": "Middle Childhood Education", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 34
+            }, 
+            "id": "Operations Management", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 49
+            }, 
+            "id": "Chemical Engineering", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 98
+            }, 
+            "id": "Information Technology", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 20
+            }, 
+            "id": "History", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 10
+            }, 
+            "id": "Art History", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 27
+            }, 
+            "id": "Information Systems", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 37
+            }, 
+            "id": "Accounting BBA", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 135
+            }, 
+            "id": "Communication", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 26
+            }, 
+            "id": "Mechanical Engineering Tech", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 15
+            }, 
+            "id": "Ballet", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 8
+            }, 
+            "id": "Sociology", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 38
+            }, 
+            "id": "Electronic Media", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 11
+            }, 
+            "id": "Physics (Astrophysics)", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 56
+            }, 
+            "id": "Sport Administration", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 38
+            }, 
+            "id": "Undecided", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 5
+            }, 
+            "id": "Asian Studies", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 100
+            }, 
+            "id": "Marketing", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 6
+            }, 
+            "id": "Chemistry-ACS", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 19
+            }, 
+            "id": "Fashion Design", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 26
+            }, 
+            "id": "Environmental Studies", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 10
+            }, 
+            "id": "Medical Laboratory Science", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 37
+            }, 
+            "id": "Aerospace Engineering", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 5
+            }, 
+            "id": "Substance Abuse Counseling", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 6
+            }, 
+            "id": "Nursing - RN to BSN", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 7
+            }, 
+            "id": "English Literature", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 43
+            }, 
+            "id": "Journalism", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 19
+            }, 
+            "id": "International Affairs", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 30
+            }, 
+            "id": "Chemistry - BS", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 5
+            }, 
+            "id": "Business Economics - BBA", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 13
+            }, 
+            "id": "College Credit Plus", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 70
+            }, 
+            "id": "Special Education", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 5
+            }, 
+            "id": "Pre-Health Sciences", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 15
+            }, 
+            "id": "Construction Management", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 8
+            }, 
+            "id": "Spanish", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 11
+            }, 
+            "id": "Environmental Engineering", 
+            "student": 1
+        }, 
+        {
+            "info": {
+                "count": 9
+            }, 
+            "id": "Foundational Studies in AHS", 
+            "student": 1
+        }
+    ], 
+    "plan": [
+        {
+            "count": 13, 
+            "name": "International Business"
+        }, 
+        {
+            "count": 18, 
+            "name": "Biochemistry"
+        }, 
+        {
+            "count": 47, 
+            "name": "Interdisciplinary"
+        }, 
+        {
+            "count": 28, 
+            "name": "Mathematics - BS"
+        }, 
+        {
+            "count": 6, 
+            "name": "Early Childhood Care & Educati"
+        }, 
+        {
+            "count": 10, 
+            "name": "Mathematics - BA"
+        }, 
+        {
+            "count": 69, 
+            "name": "Psychology - BA"
+        }, 
+        {
+            "count": 9, 
+            "name": "Philosophy"
+        }, 
+        {
+            "count": 47, 
+            "name": "Organizational Leadership"
+        }, 
+        {
+            "count": 14, 
+            "name": "Entrepreneurship"
+        }, 
+        {
+            "count": 9, 
+            "name": "Anthropology"
+        }, 
+        {
+            "count": 81, 
+            "name": "Psychology - BS"
+        }, 
+        {
+            "count": 46, 
+            "name": "Computer Science"
+        }, 
+        {
+            "count": 24, 
+            "name": "Pre Pharmacy"
+        }, 
+        {
+            "count": 15, 
+            "name": "English Literature - BX"
+        }, 
+        {
+            "count": 35, 
+            "name": "Music"
+        }, 
+        {
+            "count": 8, 
+            "name": "Advanced Medical Imaging Tech"
+        }, 
+        {
+            "count": 6, 
+            "name": "Athletic Training"
+        }, 
+        {
+            "count": 352, 
+            "name": "English Literature - BA"
+        }, 
+        {
+            "count": 101, 
+            "name": "Nursing"
+        }, 
+        {
+            "count": 14, 
+            "name": "Pre-Business Administration"
+        }, 
+        {
+            "count": 6, 
+            "name": "Musical Theater"
+        }, 
+        {
+            "count": 5, 
+            "name": "Freshman Engineering Program"
+        }, 
+        {
+            "count": 102, 
+            "name": "Early Childhood Education"
+        }, 
+        {
+            "count": 8, 
+            "name": "Social Work"
+        }, 
+        {
+            "count": 82, 
+            "name": "Electrical Engineering"
+        }, 
+        {
+            "count": 9, 
+            "name": "Geology - BS"
+        }, 
+        {
+            "count": 24, 
+            "name": "Liberal Arts"
+        }, 
+        {
+            "count": 8, 
+            "name": "Industrial Management"
+        }, 
+        {
+            "count": 8, 
+            "name": "Electrical Engineering Tech"
+        }, 
+        {
+            "count": 744, 
+            "name": "Exploratory"
+        }, 
+        {
+            "count": 47, 
+            "name": "Industrial Design"
+        }, 
+        {
+            "count": 109, 
+            "name": "Secondary Education"
+        }, 
+        {
+            "count": 8, 
+            "name": "Graphic Communication Design"
+        }, 
+        {
+            "count": 28, 
+            "name": "Health Education"
+        }, 
+        {
+            "count": 58, 
+            "name": "Comm Sciences and Disorders"
+        }, 
+        {
+            "count": 5, 
+            "name": "Interior Design"
+        }, 
+        {
+            "count": 7, 
+            "name": "Urban Planning"
+        }, 
+        {
+            "count": 5, 
+            "name": "Pre-Fine Arts"
+        }, 
+        {
+            "count": 47, 
+            "name": "MA Professional Writing"
+        }, 
+        {
+            "count": 6, 
+            "name": "Economics"
+        }, 
+        {
+            "count": 87, 
+            "name": "MISC"
+        }, 
+        {
+            "count": 54, 
+            "name": "Medical Sciences"
+        }, 
+        {
+            "count": 15, 
+            "name": "Drama"
+        }, 
+        {
+            "count": 21, 
+            "name": "Architecture"
+        }, 
+        {
+            "count": 16, 
+            "name": "Biological Sciences"
+        }, 
+        {
+            "count": 5, 
+            "name": "Chemistry"
+        }, 
+        {
+            "count": 34, 
+            "name": "Biomedical Engineering"
+        }, 
+        {
+            "count": 7, 
+            "name": "Women's, Gender, & Sex Studies"
+        }, 
+        {
+            "count": 11, 
+            "name": "Physics - BS"
+        }, 
+        {
+            "count": 28, 
+            "name": "Non-Matriculated"
+        }, 
+        {
+            "count": 17, 
+            "name": "Dietetics"
+        }, 
+        {
+            "count": 131, 
+            "name": "Criminal Justice"
+        }, 
+        {
+            "count": 32, 
+            "name": "Civil Engineering"
+        }, 
+        {
+            "count": 26, 
+            "name": "Computer Engineering"
+        }, 
+        {
+            "count": 7, 
+            "name": "Music Education"
+        }, 
+        {
+            "count": 5, 
+            "name": "Senior Audit"
+        }, 
+        {
+            "count": 8, 
+            "name": "Real Estate"
+        }, 
+        {
+            "count": 33, 
+            "name": "Theater Design and Production"
+        }, 
+        {
+            "count": 67, 
+            "name": "Fine Arts - Art"
+        }, 
+        {
+            "count": 9, 
+            "name": "Acting"
+        }, 
+        {
+            "count": 56, 
+            "name": "Neuroscience - BS"
+        }, 
+        {
+            "count": 56, 
+            "name": "Political Science"
+        }, 
+        {
+            "count": 181, 
+            "name": "English & Comp Literature"
+        }, 
+        {
+            "count": 44, 
+            "name": "Health Sciences"
+        }, 
+        {
+            "count": 54, 
+            "name": "Finance"
+        }, 
+        {
+            "count": 86, 
+            "name": "Mechanical Engineering"
+        }, 
+        {
+            "count": 176, 
+            "name": "Biological Sciences - BS"
+        }, 
+        {
+            "count": 6, 
+            "name": "Arabic Language and Culture"
+        }, 
+        {
+            "count": 5, 
+            "name": "Architectural Engineering"
+        }, 
+        {
+            "count": 68, 
+            "name": "Middle Childhood Education"
+        }, 
+        {
+            "count": 34, 
+            "name": "Operations Management"
+        }, 
+        {
+            "count": 49, 
+            "name": "Chemical Engineering"
+        }, 
+        {
+            "count": 98, 
+            "name": "Information Technology"
+        }, 
+        {
+            "count": 20, 
+            "name": "History"
+        }, 
+        {
+            "count": 10, 
+            "name": "Art History"
+        }, 
+        {
+            "count": 27, 
+            "name": "Information Systems"
+        }, 
+        {
+            "count": 37, 
+            "name": "Accounting BBA"
+        }, 
+        {
+            "count": 135, 
+            "name": "Communication"
+        }, 
+        {
+            "count": 26, 
+            "name": "Mechanical Engineering Tech"
+        }, 
+        {
+            "count": 15, 
+            "name": "Ballet"
+        }, 
+        {
+            "count": 8, 
+            "name": "Sociology"
+        }, 
+        {
+            "count": 38, 
+            "name": "Electronic Media"
+        }, 
+        {
+            "count": 11, 
+            "name": "Physics (Astrophysics)"
+        }, 
+        {
+            "count": 56, 
+            "name": "Sport Administration"
+        }, 
+        {
+            "count": 38, 
+            "name": "Undecided"
+        }, 
+        {
+            "count": 5, 
+            "name": "Asian Studies"
+        }, 
+        {
+            "count": 100, 
+            "name": "Marketing"
+        }, 
+        {
+            "count": 6, 
+            "name": "Chemistry-ACS"
+        }, 
+        {
+            "count": 19, 
+            "name": "Fashion Design"
+        }, 
+        {
+            "count": 26, 
+            "name": "Environmental Studies"
+        }, 
+        {
+            "count": 10, 
+            "name": "Medical Laboratory Science"
+        }, 
+        {
+            "count": 37, 
+            "name": "Aerospace Engineering"
+        }, 
+        {
+            "count": 5, 
+            "name": "Substance Abuse Counseling"
+        }, 
+        {
+            "count": 6, 
+            "name": "Nursing - RN to BSN"
+        }, 
+        {
+            "count": 7, 
+            "name": "English Literature"
+        }, 
+        {
+            "count": 43, 
+            "name": "Journalism"
+        }, 
+        {
+            "count": 19, 
+            "name": "International Affairs"
+        }, 
+        {
+            "count": 30, 
+            "name": "Chemistry - BS"
+        }, 
+        {
+            "count": 5, 
+            "name": "Business Economics - BBA"
+        }, 
+        {
+            "count": 13, 
+            "name": "College Credit Plus"
+        }, 
+        {
+            "count": 70, 
+            "name": "Special Education"
+        }, 
+        {
+            "count": 5, 
+            "name": "Pre-Health Sciences"
+        }, 
+        {
+            "count": 15, 
+            "name": "Construction Management"
+        }, 
+        {
+            "count": 8, 
+            "name": "Spanish"
+        }, 
+        {
+            "count": 11, 
+            "name": "Environmental Engineering"
+        }, 
+        {
+            "count": 9, 
+            "name": "Foundational Studies in AHS"
+        }
+    ], 
+    "links": [
+        {
+            "source": "Biological Sciences - BS", 
+            "target": "ENGLISH COMP", 
+            "value": 70
+        }, 
+        {
+            "source": "Exploratory", 
+            "target": "ENGLISH COMP", 
+            "value": 497
+        }, 
+        {
+            "source": "Fine Arts - Art", 
+            "target": "ENGLISH COMP", 
+            "value": 23
+        }, 
+        {
+            "source": "Neuroscience - BS", 
+            "target": "ENGLISH COMP", 
+            "value": 12
+        }, 
+        {
+            "source": "Psychology - BA", 
+            "target": "ENGLISH COMP", 
+            "value": 15
+        }, 
+        {
+            "source": "International Affairs", 
+            "target": "ENGLISH COMP", 
+            "value": 6
+        }, 
+        {
+            "source": "Political Science", 
+            "target": "ENGLISH COMP", 
+            "value": 13
+        }, 
+        {
+            "source": "Biological Sciences", 
+            "target": "ENGLISH COMP", 
+            "value": 11
+        }, 
+        {
+            "source": "Fashion Design", 
+            "target": "ENGLISH COMP", 
+            "value": 13
+        }, 
+        {
+            "source": "Foundational Studies in AHS", 
+            "target": "ENGLISH COMP", 
+            "value": 8
+        }, 
+        {
+            "source": "Psychology - BS", 
+            "target": "ENGLISH COMP", 
+            "value": 19
+        }, 
+        {
+            "source": "Music", 
+            "target": "ENGLISH COMP", 
+            "value": 14
+        }, 
+        {
+            "source": "Anthropology", 
+            "target": "ENGLISH COMP", 
+            "value": 1
+        }, 
+        {
+            "source": "Medical Sciences", 
+            "target": "ENGLISH COMP", 
+            "value": 6
+        }, 
+        {
+            "source": "Information Technology", 
+            "target": "ENGLISH COMP", 
+            "value": 17
+        }, 
+        {
+            "source": "Mathematics - BS", 
+            "target": "ENGLISH COMP", 
+            "value": 11
+        }, 
+        {
+            "source": "Communication", 
+            "target": "ENGLISH COMP", 
+            "value": 14
+        }, 
+        {
+            "source": "Criminal Justice", 
+            "target": "ENGLISH COMP", 
+            "value": 69
+        }, 
+        {
+            "source": "Undecided", 
+            "target": "ENGLISH COMP", 
+            "value": 22
+        }, 
+        {
+            "source": "Accounting BBA", 
+            "target": "ENGLISH COMP", 
+            "value": 8
+        }, 
+        {
+            "source": "Finance", 
+            "target": "ENGLISH COMP", 
+            "value": 12
+        }, 
+        {
+            "source": "Biochemistry", 
+            "target": "ENGLISH COMP", 
+            "value": 8
+        }, 
+        {
+            "source": "Sport Administration", 
+            "target": "ENGLISH COMP", 
+            "value": 34
+        }, 
+        {
+            "source": "Marketing", 
+            "target": "ENGLISH COMP", 
+            "value": 11
+        }, 
+        {
+            "source": "Organizational Leadership", 
+            "target": "ENGLISH COMP", 
+            "value": 6
+        }, 
+        {
+            "source": "Early Childhood Education", 
+            "target": "ENGLISH COMP", 
+            "value": 39
+        }, 
+        {
+            "source": "Mathematics - BA", 
+            "target": "ENGLISH COMP", 
+            "value": 3
+        }, 
+        {
+            "source": "Secondary Education", 
+            "target": "ENGLISH COMP", 
+            "value": 10
+        }, 
+        {
+            "source": "Operations Management", 
+            "target": "ENGLISH COMP", 
+            "value": 5
+        }, 
+        {
+            "source": "Spanish", 
+            "target": "ENGLISH COMP", 
+            "value": 2
+        }, 
+        {
+            "source": "Biomedical Engineering", 
+            "target": "ENGLISH COMP", 
+            "value": 2
+        }, 
+        {
+            "source": "Electronic Media", 
+            "target": "ENGLISH COMP", 
+            "value": 9
+        }, 
+        {
+            "source": "Interdisciplinary", 
+            "target": "ENGLISH COMP", 
+            "value": 8
+        }, 
+        {
+            "source": "Freshman Engineering Program", 
+            "target": "ENGLISH COMP", 
+            "value": 4
+        }, 
+        {
+            "source": "Nursing", 
+            "target": "ENGLISH COMP", 
+            "value": 65
+        }, 
+        {
+            "source": "History", 
+            "target": "ENGLISH COMP", 
+            "value": 5
+        }, 
+        {
+            "source": "Health Education", 
+            "target": "ENGLISH COMP", 
+            "value": 8
+        }, 
+        {
+            "source": "MISC", 
+            "target": "ENGLISH COMP", 
+            "value": 30
+        }, 
+        {
+            "source": "Pre Pharmacy", 
+            "target": "ENGLISH COMP", 
+            "value": 9
+        }, 
+        {
+            "source": "English Literature - BX", 
+            "target": "ENGLISH COMP", 
+            "value": 4
+        }, 
+        {
+            "source": "Non-Matriculated", 
+            "target": "ENGLISH COMP", 
+            "value": 6
+        }, 
+        {
+            "source": "Computer Science", 
+            "target": "ENGLISH COMP", 
+            "value": 7
+        }, 
+        {
+            "source": "Chemical Engineering", 
+            "target": "ENGLISH COMP", 
+            "value": 7
+        }, 
+        {
+            "source": "Mechanical Engineering", 
+            "target": "ENGLISH COMP", 
+            "value": 8
+        }, 
+        {
+            "source": "Chemistry - BS", 
+            "target": "ENGLISH COMP", 
+            "value": 11
+        }, 
+        {
+            "source": "Computer Engineering", 
+            "target": "ENGLISH COMP", 
+            "value": 2
+        }, 
+        {
+            "source": "Middle Childhood Education", 
+            "target": "ENGLISH COMP", 
+            "value": 11
+        }, 
+        {
+            "source": "Theater Design and Production", 
+            "target": "ENGLISH COMP", 
+            "value": 6
+        }, 
+        {
+            "source": "Physics (Astrophysics)", 
+            "target": "ENGLISH COMP", 
+            "value": 3
+        }, 
+        {
+            "source": "Entrepreneurship", 
+            "target": "ENGLISH COMP", 
+            "value": 2
+        }, 
+        {
+            "source": "Business Economics - BBA", 
+            "target": "ENGLISH COMP", 
+            "value": 1
+        }, 
+        {
+            "source": "Health Sciences", 
+            "target": "ENGLISH COMP", 
+            "value": 13
+        }, 
+        {
+            "source": "Philosophy", 
+            "target": "ENGLISH COMP", 
+            "value": 2
+        }, 
+        {
+            "source": "Chemistry", 
+            "target": "ENGLISH COMP", 
+            "value": 2
+        }, 
+        {
+            "source": "Aerospace Engineering", 
+            "target": "ENGLISH COMP", 
+            "value": 21
+        }, 
+        {
+            "source": "Journalism", 
+            "target": "ENGLISH COMP", 
+            "value": 5
+        }, 
+        {
+            "source": "Comm Sciences and Disorders", 
+            "target": "ENGLISH COMP", 
+            "value": 9
+        }, 
+        {
+            "source": "International Business", 
+            "target": "ENGLISH COMP", 
+            "value": 4
+        }, 
+        {
+            "source": "Environmental Studies", 
+            "target": "ENGLISH COMP", 
+            "value": 6
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "ENGLISH COMP", 
+            "value": 3
+        }, 
+        {
+            "source": "Liberal Arts", 
+            "target": "ENGLISH COMP", 
+            "value": 1
+        }, 
+        {
+            "source": "Art History", 
+            "target": "ENGLISH COMP", 
+            "value": 2
+        }, 
+        {
+            "source": "Asian Studies", 
+            "target": "ENGLISH COMP", 
+            "value": 2
+        }, 
+        {
+            "source": "Electrical Engineering", 
+            "target": "ENGLISH COMP", 
+            "value": 8
+        }, 
+        {
+            "source": "Civil Engineering", 
+            "target": "ENGLISH COMP", 
+            "value": 3
+        }, 
+        {
+            "source": "College Credit Plus", 
+            "target": "ENGLISH COMP", 
+            "value": 4
+        }, 
+        {
+            "source": "Environmental Engineering", 
+            "target": "ENGLISH COMP", 
+            "value": 3
+        }, 
+        {
+            "source": "Medical Laboratory Science", 
+            "target": "ENGLISH COMP", 
+            "value": 3
+        }, 
+        {
+            "source": "Geology - BS", 
+            "target": "ENGLISH COMP", 
+            "value": 4
+        }, 
+        {
+            "source": "Music Education", 
+            "target": "ENGLISH COMP", 
+            "value": 1
+        }, 
+        {
+            "source": "Architecture", 
+            "target": "ENGLISH COMP", 
+            "value": 3
+        }, 
+        {
+            "source": "Information Systems", 
+            "target": "ENGLISH COMP", 
+            "value": 2
+        }, 
+        {
+            "source": "Pre-Fine Arts", 
+            "target": "ENGLISH COMP", 
+            "value": 4
+        }, 
+        {
+            "source": "Senior Audit", 
+            "target": "ENGLISH COMP", 
+            "value": 1
+        }, 
+        {
+            "source": "Sociology", 
+            "target": "ENGLISH COMP", 
+            "value": 2
+        }, 
+        {
+            "source": "Physics - BS", 
+            "target": "ENGLISH COMP", 
+            "value": 2
+        }, 
+        {
+            "source": "Advanced Medical Imaging Tech", 
+            "target": "ENGLISH COMP", 
+            "value": 2
+        }, 
+        {
+            "source": "Ballet", 
+            "target": "ENGLISH COMP", 
+            "value": 6
+        }, 
+        {
+            "source": "Pre-Business Administration", 
+            "target": "ENGLISH COMP", 
+            "value": 4
+        }, 
+        {
+            "source": "Acting", 
+            "target": "ENGLISH COMP", 
+            "value": 6
+        }, 
+        {
+            "source": "Athletic Training", 
+            "target": "ENGLISH COMP", 
+            "value": 2
+        }, 
+        {
+            "source": "Dietetics", 
+            "target": "ENGLISH COMP", 
+            "value": 5
+        }, 
+        {
+            "source": "Social Work", 
+            "target": "ENGLISH COMP", 
+            "value": 1
+        }, 
+        {
+            "source": "Real Estate", 
+            "target": "ENGLISH COMP", 
+            "value": 1
+        }, 
+        {
+            "source": "Chemistry-ACS", 
+            "target": "ENGLISH COMP", 
+            "value": 2
+        }, 
+        {
+            "source": "Mechanical Engineering Tech", 
+            "target": "ENGLISH COMP", 
+            "value": 1
+        }, 
+        {
+            "source": "Construction Management", 
+            "target": "ENGLISH COMP", 
+            "value": 1
+        }, 
+        {
+            "source": "Industrial Management", 
+            "target": "ENGLISH COMP", 
+            "value": 1
+        }, 
+        {
+            "source": "Nursing - RN to BSN", 
+            "target": "ENGLISH COMP", 
+            "value": 1
+        }, 
+        {
+            "source": "Urban Planning", 
+            "target": "ENGLISH COMP", 
+            "value": 1
+        }, 
+        {
+            "source": "Industrial Design", 
+            "target": "ENGLISH COMP", 
+            "value": 2
+        }, 
+        {
+            "source": "Early Childhood Care & Educati", 
+            "target": "ENGLISH COMP", 
+            "value": 3
+        }, 
+        {
+            "source": "Special Education", 
+            "target": "ENGLISH COMP", 
+            "value": 1
+        }, 
+        {
+            "source": "Architectural Engineering", 
+            "target": "ENGLISH COMP", 
+            "value": 1
+        }, 
+        {
+            "source": "Women's, Gender, & Sex Studies", 
+            "target": "ENGLISH COMP", 
+            "value": 1
+        }, 
+        {
+            "source": "Pre-Health Sciences", 
+            "target": "ENGLISH COMP", 
+            "value": 3
+        }, 
+        {
+            "source": "Biological Sciences - BS", 
+            "target": "FRESH SEM ENGLISH", 
+            "value": 16
+        }, 
+        {
+            "source": "Exploratory", 
+            "target": "FRESH SEM ENGLISH", 
+            "value": 7
+        }, 
+        {
+            "source": "Political Science", 
+            "target": "FRESH SEM ENGLISH", 
+            "value": 6
+        }, 
+        {
+            "source": "Neuroscience - BS", 
+            "target": "FRESH SEM ENGLISH", 
+            "value": 11
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "FRESH SEM ENGLISH", 
+            "value": 3
+        }, 
+        {
+            "source": "Non-Matriculated", 
+            "target": "FRESH SEM ENGLISH", 
+            "value": 1
+        }, 
+        {
+            "source": "Environmental Studies", 
+            "target": "FRESH SEM ENGLISH", 
+            "value": 2
+        }, 
+        {
+            "source": "Chemistry - BS", 
+            "target": "FRESH SEM ENGLISH", 
+            "value": 1
+        }, 
+        {
+            "source": "Communication", 
+            "target": "FRESH SEM ENGLISH", 
+            "value": 2
+        }, 
+        {
+            "source": "Mathematics - BS", 
+            "target": "FRESH SEM ENGLISH", 
+            "value": 1
+        }, 
+        {
+            "source": "Electronic Media", 
+            "target": "FRESH SEM ENGLISH", 
+            "value": 1
+        }, 
+        {
+            "source": "Interdisciplinary", 
+            "target": "FRESH SEM ENGLISH", 
+            "value": 5
+        }, 
+        {
+            "source": "Biological Sciences", 
+            "target": "FRESH SEM ENGLISH", 
+            "value": 1
+        }, 
+        {
+            "source": "MISC", 
+            "target": "FRESH SEM ENGLISH", 
+            "value": 1
+        }, 
+        {
+            "source": "Psychology - BS", 
+            "target": "FRESH SEM ENGLISH", 
+            "value": 4
+        }, 
+        {
+            "source": "Physics - BS", 
+            "target": "FRESH SEM ENGLISH", 
+            "value": 2
+        }, 
+        {
+            "source": "Psychology - BA", 
+            "target": "FRESH SEM ENGLISH", 
+            "value": 1
+        }, 
+        {
+            "source": "Fine Arts - Art", 
+            "target": "FRESH SEM ENGLISH", 
+            "value": 1
+        }, 
+        {
+            "source": "Physics (Astrophysics)", 
+            "target": "FRESH SEM ENGLISH", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "INTRO FILM STUDIES", 
+            "value": 1
+        }, 
+        {
+            "source": "Fine Arts - Art", 
+            "target": "INTRO FILM STUDIES", 
+            "value": 1
+        }, 
+        {
+            "source": "Neuroscience - BS", 
+            "target": "INTRO FILM STUDIES", 
+            "value": 1
+        }, 
+        {
+            "source": "Marketing", 
+            "target": "INTRO FILM STUDIES", 
+            "value": 1
+        }, 
+        {
+            "source": "Architecture", 
+            "target": "INTRO FILM STUDIES", 
+            "value": 1
+        }, 
+        {
+            "source": "Industrial Design", 
+            "target": "INTRO FILM STUDIES", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "TOPICS LIT", 
+            "value": 4
+        }, 
+        {
+            "source": "Early Childhood Education", 
+            "target": "TOPICS LIT", 
+            "value": 1
+        }, 
+        {
+            "source": "College Credit Plus", 
+            "target": "TOPICS LIT", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BX", 
+            "target": "TOPICS LIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Middle Childhood Education", 
+            "target": "TOPICS LIT", 
+            "value": 5
+        }, 
+        {
+            "source": "English Literature", 
+            "target": "TOPICS LIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Special Education", 
+            "target": "TOPICS LIT", 
+            "value": 1
+        }, 
+        {
+            "source": "MISC", 
+            "target": "TOPICS LIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Exploratory", 
+            "target": "TOPICS LIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Ballet", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "Electronic Media", 
+            "target": "HARRY POTTER", 
+            "value": 2
+        }, 
+        {
+            "source": "Middle Childhood Education", 
+            "target": "HARRY POTTER", 
+            "value": 2
+        }, 
+        {
+            "source": "Communication", 
+            "target": "HARRY POTTER", 
+            "value": 5
+        }, 
+        {
+            "source": "Interdisciplinary", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "HARRY POTTER", 
+            "value": 14
+        }, 
+        {
+            "source": "Secondary Education", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "Exploratory", 
+            "target": "HARRY POTTER", 
+            "value": 10
+        }, 
+        {
+            "source": "Psychology - BA", 
+            "target": "HARRY POTTER", 
+            "value": 4
+        }, 
+        {
+            "source": "Finance", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "Early Childhood Education", 
+            "target": "HARRY POTTER", 
+            "value": 7
+        }, 
+        {
+            "source": "Architecture", 
+            "target": "HARRY POTTER", 
+            "value": 3
+        }, 
+        {
+            "source": "Information Technology", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "Psychology - BS", 
+            "target": "HARRY POTTER", 
+            "value": 4
+        }, 
+        {
+            "source": "Interior Design", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "Criminal Justice", 
+            "target": "HARRY POTTER", 
+            "value": 2
+        }, 
+        {
+            "source": "Civil Engineering", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "Women's, Gender, & Sex Studies", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "Industrial Design", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "Drama", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "Chemistry", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "Pre Pharmacy", 
+            "target": "HARRY POTTER", 
+            "value": 2
+        }, 
+        {
+            "source": "Biological Sciences - BS", 
+            "target": "HARRY POTTER", 
+            "value": 2
+        }, 
+        {
+            "source": "Electrical Engineering Tech", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "Mathematics - BS", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "Liberal Arts", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "Operations Management", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "Marketing", 
+            "target": "HARRY POTTER", 
+            "value": 2
+        }, 
+        {
+            "source": "Construction Management", 
+            "target": "HARRY POTTER", 
+            "value": 2
+        }, 
+        {
+            "source": "Computer Science", 
+            "target": "HARRY POTTER", 
+            "value": 2
+        }, 
+        {
+            "source": "Fine Arts - Art", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "International Affairs", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "Physics (Astrophysics)", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "Chemistry-ACS", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "Graphic Communication Design", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "History", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "Biological Sciences", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "Dietetics", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "Special Education", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "Mechanical Engineering", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "Art History", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "College Credit Plus", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "Aerospace Engineering", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "Music", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "Non-Matriculated", 
+            "target": "HARRY POTTER", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "AMER LIT SURVEY I", 
+            "value": 9
+        }, 
+        {
+            "source": "Special Education", 
+            "target": "AMER LIT SURVEY I", 
+            "value": 4
+        }, 
+        {
+            "source": "Electronic Media", 
+            "target": "AMER LIT SURVEY I", 
+            "value": 1
+        }, 
+        {
+            "source": "Secondary Education", 
+            "target": "AMER LIT SURVEY I", 
+            "value": 4
+        }, 
+        {
+            "source": "Comm Sciences and Disorders", 
+            "target": "AMER LIT SURVEY I", 
+            "value": 1
+        }, 
+        {
+            "source": "Middle Childhood Education", 
+            "target": "AMER LIT SURVEY I", 
+            "value": 1
+        }, 
+        {
+            "source": "Exploratory", 
+            "target": "AMER LIT SURVEY I", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "AMER LIT SURVEY II", 
+            "value": 17
+        }, 
+        {
+            "source": "English Literature - BX", 
+            "target": "AMER LIT SURVEY II", 
+            "value": 1
+        }, 
+        {
+            "source": "Early Childhood Education", 
+            "target": "AMER LIT SURVEY II", 
+            "value": 1
+        }, 
+        {
+            "source": "Special Education", 
+            "target": "AMER LIT SURVEY II", 
+            "value": 4
+        }, 
+        {
+            "source": "Secondary Education", 
+            "target": "AMER LIT SURVEY II", 
+            "value": 4
+        }, 
+        {
+            "source": "Middle Childhood Education", 
+            "target": "AMER LIT SURVEY II", 
+            "value": 4
+        }, 
+        {
+            "source": "Aerospace Engineering", 
+            "target": "AMER LIT SURVEY II", 
+            "value": 1
+        }, 
+        {
+            "source": "Exploratory", 
+            "target": "AMER LIT SURVEY II", 
+            "value": 1
+        }, 
+        {
+            "source": "Political Science", 
+            "target": "AMER LIT SURVEY II", 
+            "value": 1
+        }, 
+        {
+            "source": "Organizational Leadership", 
+            "target": "AMER LIT SURVEY II", 
+            "value": 1
+        }, 
+        {
+            "source": "Biological Sciences - BS", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 4
+        }, 
+        {
+            "source": "Psychology - BA", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 1
+        }, 
+        {
+            "source": "Communication", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 2
+        }, 
+        {
+            "source": "MISC", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 1
+        }, 
+        {
+            "source": "Architectural Engineering", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 1
+        }, 
+        {
+            "source": "Chemical Engineering", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 3
+        }, 
+        {
+            "source": "Industrial Design", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 5
+        }, 
+        {
+            "source": "Music Education", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 1
+        }, 
+        {
+            "source": "Health Sciences", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 2
+        }, 
+        {
+            "source": "English Literature", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 2
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 13
+        }, 
+        {
+            "source": "Information Technology", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 1
+        }, 
+        {
+            "source": "Exploratory", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 11
+        }, 
+        {
+            "source": "Computer Science", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 1
+        }, 
+        {
+            "source": "Graphic Communication Design", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 1
+        }, 
+        {
+            "source": "Fashion Design", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 1
+        }, 
+        {
+            "source": "Fine Arts - Art", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BX", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 1
+        }, 
+        {
+            "source": "Information Systems", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 2
+        }, 
+        {
+            "source": "Mechanical Engineering", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 1
+        }, 
+        {
+            "source": "Electronic Media", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 1
+        }, 
+        {
+            "source": "Architecture", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 1
+        }, 
+        {
+            "source": "Criminal Justice", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 1
+        }, 
+        {
+            "source": "Liberal Arts", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 1
+        }, 
+        {
+            "source": "Medical Sciences", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 1
+        }, 
+        {
+            "source": "Civil Engineering", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 2
+        }, 
+        {
+            "source": "Physics (Astrophysics)", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 1
+        }, 
+        {
+            "source": "Spanish", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 1
+        }, 
+        {
+            "source": "Psychology - BS", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 1
+        }, 
+        {
+            "source": "College Credit Plus", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 2
+        }, 
+        {
+            "source": "Secondary Education", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 2
+        }, 
+        {
+            "source": "Journalism", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 1
+        }, 
+        {
+            "source": "Political Science", 
+            "target": "INTRO CREA WRIT FIC", 
+            "value": 1
+        }, 
+        {
+            "source": "Early Childhood Education", 
+            "target": "INTRO CREA NONFIC", 
+            "value": 1
+        }, 
+        {
+            "source": "Journalism", 
+            "target": "INTRO CREA NONFIC", 
+            "value": 1
+        }, 
+        {
+            "source": "Communication", 
+            "target": "INTRO CREA NONFIC", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "INTRO CREA NONFIC", 
+            "value": 6
+        }, 
+        {
+            "source": "Electronic Media", 
+            "target": "INTRO CREA NONFIC", 
+            "value": 2
+        }, 
+        {
+            "source": "Non-Matriculated", 
+            "target": "INTRO CREA NONFIC", 
+            "value": 1
+        }, 
+        {
+            "source": "Exploratory", 
+            "target": "INTRO CREA NONFIC", 
+            "value": 3
+        }, 
+        {
+            "source": "Secondary Education", 
+            "target": "INTRO CREA NONFIC", 
+            "value": 2
+        }, 
+        {
+            "source": "English Literature - BX", 
+            "target": "INTRO CREA NONFIC", 
+            "value": 1
+        }, 
+        {
+            "source": "Philosophy", 
+            "target": "INTRO CREA NONFIC", 
+            "value": 1
+        }, 
+        {
+            "source": "Psychology - BA", 
+            "target": "INTRO CREA NONFIC", 
+            "value": 1
+        }, 
+        {
+            "source": "Political Science", 
+            "target": "INTRO SCREENWRT", 
+            "value": 1
+        }, 
+        {
+            "source": "History", 
+            "target": "INTRO SCREENWRT", 
+            "value": 2
+        }, 
+        {
+            "source": "Industrial Design", 
+            "target": "INTRO SCREENWRT", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "INTRO SCREENWRT", 
+            "value": 7
+        }, 
+        {
+            "source": "Philosophy", 
+            "target": "INTRO SCREENWRT", 
+            "value": 1
+        }, 
+        {
+            "source": "Exploratory", 
+            "target": "INTRO SCREENWRT", 
+            "value": 4
+        }, 
+        {
+            "source": "Psychology - BS", 
+            "target": "INTRO SCREENWRT", 
+            "value": 3
+        }, 
+        {
+            "source": "Psychology - BA", 
+            "target": "INTRO SCREENWRT", 
+            "value": 2
+        }, 
+        {
+            "source": "Electronic Media", 
+            "target": "INTRO SCREENWRT", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BX", 
+            "target": "INTRO SCREENWRT", 
+            "value": 1
+        }, 
+        {
+            "source": "Acting", 
+            "target": "INTRO SCREENWRT", 
+            "value": 2
+        }, 
+        {
+            "source": "Health Education", 
+            "target": "INTRO SCREENWRT", 
+            "value": 1
+        }, 
+        {
+            "source": "Journalism", 
+            "target": "INTRO SCREENWRT", 
+            "value": 1
+        }, 
+        {
+            "source": "Social Work", 
+            "target": "INTRO SCREENWRT", 
+            "value": 1
+        }, 
+        {
+            "source": "College Credit Plus", 
+            "target": "INTRO SCREENWRT", 
+            "value": 1
+        }, 
+        {
+            "source": "Theater Design and Production", 
+            "target": "SCRIPT TO SCREEN", 
+            "value": 8
+        }, 
+        {
+            "source": "Industrial Design", 
+            "target": "SCRIPT TO SCREEN", 
+            "value": 3
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "SCRIPT TO SCREEN", 
+            "value": 2
+        }, 
+        {
+            "source": "Psychology - BS", 
+            "target": "SCRIPT TO SCREEN", 
+            "value": 1
+        }, 
+        {
+            "source": "Liberal Arts", 
+            "target": "SCRIPT TO SCREEN", 
+            "value": 1
+        }, 
+        {
+            "source": "Criminal Justice", 
+            "target": "SCRIPT TO SCREEN", 
+            "value": 1
+        }, 
+        {
+            "source": "Marketing", 
+            "target": "SCRIPT TO SCREEN", 
+            "value": 1
+        }, 
+        {
+            "source": "Psychology - BA", 
+            "target": "SCRIPT TO SCREEN", 
+            "value": 1
+        }, 
+        {
+            "source": "Exploratory", 
+            "target": "SCRIPT TO SCREEN", 
+            "value": 1
+        }, 
+        {
+            "source": "International Affairs", 
+            "target": "SCRIPT TO SCREEN", 
+            "value": 1
+        }, 
+        {
+            "source": "Health Sciences", 
+            "target": "SCRIPT TO SCREEN", 
+            "value": 1
+        }, 
+        {
+            "source": "Art History", 
+            "target": "INTRO POETRY WRIT", 
+            "value": 2
+        }, 
+        {
+            "source": "Exploratory", 
+            "target": "INTRO POETRY WRIT", 
+            "value": 4
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "INTRO POETRY WRIT", 
+            "value": 3
+        }, 
+        {
+            "source": "Industrial Design", 
+            "target": "INTRO POETRY WRIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Journalism", 
+            "target": "INTRO POETRY WRIT", 
+            "value": 2
+        }, 
+        {
+            "source": "English Literature - BX", 
+            "target": "INTRO POETRY WRIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Marketing", 
+            "target": "INTRO POETRY WRIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Interdisciplinary", 
+            "target": "INTRO POETRY WRIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Political Science", 
+            "target": "INTRO POETRY WRIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Electronic Media", 
+            "target": "INTRO POETRY WRIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Real Estate", 
+            "target": "INTRO POETRY WRIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Psychology - BS", 
+            "target": "INTRO POETRY WRIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Biological Sciences - BS", 
+            "target": "INTRO POETRY WRIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Exploratory", 
+            "target": "WORLD LITERATURE II", 
+            "value": 4
+        }, 
+        {
+            "source": "Special Education", 
+            "target": "WORLD LITERATURE II", 
+            "value": 22
+        }, 
+        {
+            "source": "Middle Childhood Education", 
+            "target": "WORLD LITERATURE II", 
+            "value": 11
+        }, 
+        {
+            "source": "Secondary Education", 
+            "target": "WORLD LITERATURE II", 
+            "value": 14
+        }, 
+        {
+            "source": "Aerospace Engineering", 
+            "target": "WORLD LITERATURE II", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "WORLD LITERATURE II", 
+            "value": 7
+        }, 
+        {
+            "source": "Communication", 
+            "target": "WORLD LITERATURE II", 
+            "value": 1
+        }, 
+        {
+            "source": "College Credit Plus", 
+            "target": "WORLD LITERATURE II", 
+            "value": 1
+        }, 
+        {
+            "source": "MISC", 
+            "target": "WORLD LITERATURE II", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BX", 
+            "target": "WORLD LITERATURE II", 
+            "value": 1
+        }, 
+        {
+            "source": "Health Sciences", 
+            "target": "WORLD LITERATURE II", 
+            "value": 1
+        }, 
+        {
+            "source": "Foundational Studies in AHS", 
+            "target": "WORLD LITERATURE II", 
+            "value": 1
+        }, 
+        {
+            "source": "Undecided", 
+            "target": "WORLD LITERATURE II", 
+            "value": 1
+        }, 
+        {
+            "source": "Secondary Education", 
+            "target": "SURVEY ENG LIT I", 
+            "value": 13
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "SURVEY ENG LIT I", 
+            "value": 11
+        }, 
+        {
+            "source": "Industrial Design", 
+            "target": "SURVEY ENG LIT I", 
+            "value": 2
+        }, 
+        {
+            "source": "Middle Childhood Education", 
+            "target": "SURVEY ENG LIT I", 
+            "value": 4
+        }, 
+        {
+            "source": "Electrical Engineering Tech", 
+            "target": "SURVEY ENG LIT I", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature", 
+            "target": "SURVEY ENG LIT I", 
+            "value": 2
+        }, 
+        {
+            "source": "MISC", 
+            "target": "INTRO LINGUISTICS", 
+            "value": 3
+        }, 
+        {
+            "source": "Exploratory", 
+            "target": "INTRO LINGUISTICS", 
+            "value": 7
+        }, 
+        {
+            "source": "Psychology - BS", 
+            "target": "INTRO LINGUISTICS", 
+            "value": 1
+        }, 
+        {
+            "source": "Comm Sciences and Disorders", 
+            "target": "INTRO LINGUISTICS", 
+            "value": 24
+        }, 
+        {
+            "source": "Psychology - BA", 
+            "target": "INTRO LINGUISTICS", 
+            "value": 1
+        }, 
+        {
+            "source": "Mathematics - BS", 
+            "target": "INTRO LINGUISTICS", 
+            "value": 1
+        }, 
+        {
+            "source": "Biological Sciences - BS", 
+            "target": "INTRO LINGUISTICS", 
+            "value": 1
+        }, 
+        {
+            "source": "Health Sciences", 
+            "target": "INTRO LINGUISTICS", 
+            "value": 2
+        }, 
+        {
+            "source": "Mathematics - BA", 
+            "target": "INTRO LINGUISTICS", 
+            "value": 1
+        }, 
+        {
+            "source": "Senior Audit", 
+            "target": "INTRO LINGUISTICS", 
+            "value": 1
+        }, 
+        {
+            "source": "Biological Sciences - BS", 
+            "target": "WOM/OUTRAG WRITINGS", 
+            "value": 1
+        }, 
+        {
+            "source": "Environmental Engineering", 
+            "target": "WOM/OUTRAG WRITINGS", 
+            "value": 1
+        }, 
+        {
+            "source": "Psychology - BA", 
+            "target": "WOM/OUTRAG WRITINGS", 
+            "value": 1
+        }, 
+        {
+            "source": "Art History", 
+            "target": "WOM/OUTRAG WRITINGS", 
+            "value": 1
+        }, 
+        {
+            "source": "Psychology - BS", 
+            "target": "WOM/OUTRAG WRITINGS", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "WOMEN'S LITERATURE", 
+            "value": 8
+        }, 
+        {
+            "source": "Special Education", 
+            "target": "WOMEN'S LITERATURE", 
+            "value": 2
+        }, 
+        {
+            "source": "Middle Childhood Education", 
+            "target": "WOMEN'S LITERATURE", 
+            "value": 1
+        }, 
+        {
+            "source": "Art History", 
+            "target": "WOMEN'S LITERATURE", 
+            "value": 1
+        }, 
+        {
+            "source": "Psychology - BS", 
+            "target": "WOMEN'S LITERATURE", 
+            "value": 1
+        }, 
+        {
+            "source": "Pre-Fine Arts", 
+            "target": "WOMEN'S LITERATURE", 
+            "value": 1
+        }, 
+        {
+            "source": "Early Childhood Education", 
+            "target": "WOMEN'S LITERATURE", 
+            "value": 4
+        }, 
+        {
+            "source": "Psychology - BA", 
+            "target": "WOMEN'S LITERATURE", 
+            "value": 1
+        }, 
+        {
+            "source": "Biological Sciences - BS", 
+            "target": "WOMEN'S LITERATURE", 
+            "value": 1
+        }, 
+        {
+            "source": "Special Education", 
+            "target": "FANTASIES CHILD LIT", 
+            "value": 15
+        }, 
+        {
+            "source": "Early Childhood Education", 
+            "target": "FANTASIES CHILD LIT", 
+            "value": 10
+        }, 
+        {
+            "source": "MISC", 
+            "target": "FANTASIES CHILD LIT", 
+            "value": 3
+        }, 
+        {
+            "source": "Psychology - BA", 
+            "target": "FANTASIES CHILD LIT", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "FANTASIES CHILD LIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Interdisciplinary", 
+            "target": "FANTASIES CHILD LIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Communication", 
+            "target": "FANTASIES CHILD LIT", 
+            "value": 2
+        }, 
+        {
+            "source": "Exploratory", 
+            "target": "FANTASIES CHILD LIT", 
+            "value": 2
+        }, 
+        {
+            "source": "Physics (Astrophysics)", 
+            "target": "FANTASIES CHILD LIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Criminal Justice", 
+            "target": "FANTASIES CHILD LIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Graphic Communication Design", 
+            "target": "FANTASIES CHILD LIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Ballet", 
+            "target": "FANTASIES CHILD LIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Comm Sciences and Disorders", 
+            "target": "FANTASIES CHILD LIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Communication", 
+            "target": "TOPICS IN FILM", 
+            "value": 1
+        }, 
+        {
+            "source": "Graphic Communication Design", 
+            "target": "TOPICS IN FILM", 
+            "value": 1
+        }, 
+        {
+            "source": "Architecture", 
+            "target": "TOPICS IN FILM", 
+            "value": 1
+        }, 
+        {
+            "source": "History", 
+            "target": "TOPICS IN FILM", 
+            "value": 3
+        }, 
+        {
+            "source": "Fine Arts - Art", 
+            "target": "TOPICS IN FILM", 
+            "value": 3
+        }, 
+        {
+            "source": "Exploratory", 
+            "target": "TOPICS IN FILM", 
+            "value": 1
+        }, 
+        {
+            "source": "Industrial Design", 
+            "target": "TOPICS IN FILM", 
+            "value": 1
+        }, 
+        {
+            "source": "Journalism", 
+            "target": "TOPICS IN FILM", 
+            "value": 1
+        }, 
+        {
+            "source": "Secondary Education", 
+            "target": "INTRO TO LIT", 
+            "value": 6
+        }, 
+        {
+            "source": "Exploratory", 
+            "target": "INTRO TO LIT", 
+            "value": 4
+        }, 
+        {
+            "source": "Special Education", 
+            "target": "INTRO TO LIT", 
+            "value": 3
+        }, 
+        {
+            "source": "Sociology", 
+            "target": "INTRO TO LIT", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "INTRO TO LIT", 
+            "value": 4
+        }, 
+        {
+            "source": "MISC", 
+            "target": "INTRO TO LIT", 
+            "value": 3
+        }, 
+        {
+            "source": "English Literature - BX", 
+            "target": "INTRO TO LIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Early Childhood Education", 
+            "target": "INTRO TO LIT", 
+            "value": 5
+        }, 
+        {
+            "source": "Art History", 
+            "target": "INTRO TO LIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Non-Matriculated", 
+            "target": "INTRO TO LIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Industrial Design", 
+            "target": "INTRO TO LIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Sport Administration", 
+            "target": "INTRO TO LIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Journalism", 
+            "target": "INTRO TO LIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Secondary Education", 
+            "target": "US ETHNIC LIT", 
+            "value": 5
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "US ETHNIC LIT", 
+            "value": 6
+        }, 
+        {
+            "source": "Aerospace Engineering", 
+            "target": "US ETHNIC LIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Middle Childhood Education", 
+            "target": "US ETHNIC LIT", 
+            "value": 5
+        }, 
+        {
+            "source": "Acting", 
+            "target": "US ETHNIC LIT", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "AFRIC AMER POETRY", 
+            "value": 2
+        }, 
+        {
+            "source": "Liberal Arts", 
+            "target": "AFRIC AMER POETRY", 
+            "value": 1
+        }, 
+        {
+            "source": "Anthropology", 
+            "target": "AFRIC AMER POETRY", 
+            "value": 1
+        }, 
+        {
+            "source": "Secondary Education", 
+            "target": "AFRIC AMER POETRY", 
+            "value": 3
+        }, 
+        {
+            "source": "Health Sciences", 
+            "target": "AFRIC AMER POETRY", 
+            "value": 1
+        }, 
+        {
+            "source": "Middle Childhood Education", 
+            "target": "AFRIC AMER POETRY", 
+            "value": 3
+        }, 
+        {
+            "source": "Drama", 
+            "target": "AFRIC AMER POETRY", 
+            "value": 1
+        }, 
+        {
+            "source": "Communication", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 69
+        }, 
+        {
+            "source": "Industrial Design", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 19
+        }, 
+        {
+            "source": "Dietetics", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 11
+        }, 
+        {
+            "source": "Information Technology", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 37
+        }, 
+        {
+            "source": "Sport Administration", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 21
+        }, 
+        {
+            "source": "Information Systems", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 22
+        }, 
+        {
+            "source": "Substance Abuse Counseling", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 5
+        }, 
+        {
+            "source": "Social Work", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 5
+        }, 
+        {
+            "source": "Psychology - BA", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 30
+        }, 
+        {
+            "source": "Athletic Training", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 4
+        }, 
+        {
+            "source": "Early Childhood Care & Educati", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 3
+        }, 
+        {
+            "source": "Finance", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 41
+        }, 
+        {
+            "source": "Health Education", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 19
+        }, 
+        {
+            "source": "Criminal Justice", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 53
+        }, 
+        {
+            "source": "Entrepreneurship", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 12
+        }, 
+        {
+            "source": "Health Sciences", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 24
+        }, 
+        {
+            "source": "Chemistry - BS", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 18
+        }, 
+        {
+            "source": "Economics", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 5
+        }, 
+        {
+            "source": "Accounting BBA", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 29
+        }, 
+        {
+            "source": "Exploratory", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 171
+        }, 
+        {
+            "source": "Anthropology", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 4
+        }, 
+        {
+            "source": "Operations Management", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 26
+        }, 
+        {
+            "source": "Nursing", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 36
+        }, 
+        {
+            "source": "Ballet", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 6
+        }, 
+        {
+            "source": "Psychology - BS", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 30
+        }, 
+        {
+            "source": "Medical Sciences", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 45
+        }, 
+        {
+            "source": "Computer Science", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 22
+        }, 
+        {
+            "source": "Real Estate", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 6
+        }, 
+        {
+            "source": "Political Science", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 29
+        }, 
+        {
+            "source": "Advanced Medical Imaging Tech", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 6
+        }, 
+        {
+            "source": "Comm Sciences and Disorders", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 21
+        }, 
+        {
+            "source": "Early Childhood Education", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 33
+        }, 
+        {
+            "source": "Graphic Communication Design", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 2
+        }, 
+        {
+            "source": "Biomedical Engineering", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 14
+        }, 
+        {
+            "source": "Special Education", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 17
+        }, 
+        {
+            "source": "Biological Sciences - BS", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 74
+        }, 
+        {
+            "source": "Music", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 18
+        }, 
+        {
+            "source": "Construction Management", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 12
+        }, 
+        {
+            "source": "Nursing - RN to BSN", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 5
+        }, 
+        {
+            "source": "International Business", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 9
+        }, 
+        {
+            "source": "Asian Studies", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 2
+        }, 
+        {
+            "source": "International Affairs", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 10
+        }, 
+        {
+            "source": "MISC", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 33
+        }, 
+        {
+            "source": "Marketing", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 82
+        }, 
+        {
+            "source": "Neuroscience - BS", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 29
+        }, 
+        {
+            "source": "Women's, Gender, & Sex Studies", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 1
+        }, 
+        {
+            "source": "Fine Arts - Art", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 33
+        }, 
+        {
+            "source": "Interdisciplinary", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 15
+        }, 
+        {
+            "source": "Industrial Management", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 7
+        }, 
+        {
+            "source": "Sociology", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 5
+        }, 
+        {
+            "source": "Art History", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 2
+        }, 
+        {
+            "source": "Architecture", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 9
+        }, 
+        {
+            "source": "Middle Childhood Education", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 19
+        }, 
+        {
+            "source": "History", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 7
+        }, 
+        {
+            "source": "Civil Engineering", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 3
+        }, 
+        {
+            "source": "Organizational Leadership", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 15
+        }, 
+        {
+            "source": "Biochemistry", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 9
+        }, 
+        {
+            "source": "Secondary Education", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 22
+        }, 
+        {
+            "source": "Urban Planning", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 6
+        }, 
+        {
+            "source": "Environmental Studies", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 14
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 11
+        }, 
+        {
+            "source": "Theater Design and Production", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 16
+        }, 
+        {
+            "source": "Pre Pharmacy", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 12
+        }, 
+        {
+            "source": "Philosophy", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 3
+        }, 
+        {
+            "source": "Physics - BS", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 7
+        }, 
+        {
+            "source": "Spanish", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 3
+        }, 
+        {
+            "source": "Arabic Language and Culture", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 2
+        }, 
+        {
+            "source": "Journalism", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 20
+        }, 
+        {
+            "source": "Undecided", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 15
+        }, 
+        {
+            "source": "Liberal Arts", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 7
+        }, 
+        {
+            "source": "Biological Sciences", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 3
+        }, 
+        {
+            "source": "Electronic Media", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 14
+        }, 
+        {
+            "source": "Music Education", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 5
+        }, 
+        {
+            "source": "Geology - BS", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 4
+        }, 
+        {
+            "source": "Mathematics - BS", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 12
+        }, 
+        {
+            "source": "Chemistry", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 2
+        }, 
+        {
+            "source": "Computer Engineering", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 1
+        }, 
+        {
+            "source": "Fashion Design", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 5
+        }, 
+        {
+            "source": "Architectural Engineering", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 3
+        }, 
+        {
+            "source": "Medical Laboratory Science", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 6
+        }, 
+        {
+            "source": "Chemistry-ACS", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 2
+        }, 
+        {
+            "source": "College Credit Plus", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 2
+        }, 
+        {
+            "source": "Pre-Business Administration", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 10
+        }, 
+        {
+            "source": "Mathematics - BA", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 6
+        }, 
+        {
+            "source": "Business Economics - BBA", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 4
+        }, 
+        {
+            "source": "Interior Design", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 4
+        }, 
+        {
+            "source": "Non-Matriculated", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 4
+        }, 
+        {
+            "source": "Musical Theater", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 5
+        }, 
+        {
+            "source": "Physics (Astrophysics)", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 2
+        }, 
+        {
+            "source": "Senior Audit", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 1
+        }, 
+        {
+            "source": "Drama", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 11
+        }, 
+        {
+            "source": "Chemical Engineering", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 3
+        }, 
+        {
+            "source": "Pre-Health Sciences", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 2
+        }, 
+        {
+            "source": "Mechanical Engineering", 
+            "target": "INTERMEDIATE COMP", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "INTRO ENGL STUDIES", 
+            "value": 23
+        }, 
+        {
+            "source": "Communication", 
+            "target": "INTRO ENGL STUDIES", 
+            "value": 1
+        }, 
+        {
+            "source": "Medical Sciences", 
+            "target": "INTRO ENGL STUDIES", 
+            "value": 1
+        }, 
+        {
+            "source": "Electronic Media", 
+            "target": "INTRO ENGL STUDIES", 
+            "value": 1
+        }, 
+        {
+            "source": "Criminal Justice", 
+            "target": "INTRO ENGL STUDIES", 
+            "value": 1
+        }, 
+        {
+            "source": "Exploratory", 
+            "target": "INTRO ENGL STUDIES", 
+            "value": 1
+        }, 
+        {
+            "source": "MISC", 
+            "target": "INTRO ENGL STUDIES", 
+            "value": 1
+        }, 
+        {
+            "source": "Political Science", 
+            "target": "INTRO ENGL STUDIES", 
+            "value": 2
+        }, 
+        {
+            "source": "Interdisciplinary", 
+            "target": "INTRO ENGL STUDIES", 
+            "value": 1
+        }, 
+        {
+            "source": "Non-Matriculated", 
+            "target": "INTRO ENGL STUDIES", 
+            "value": 2
+        }, 
+        {
+            "source": "MISC", 
+            "target": "PEER TUTORING", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "PEER TUTORING", 
+            "value": 4
+        }, 
+        {
+            "source": "Operations Management", 
+            "target": "PEER TUTORING", 
+            "value": 1
+        }, 
+        {
+            "source": "Architecture", 
+            "target": "PEER TUTORING", 
+            "value": 1
+        }, 
+        {
+            "source": "Women's, Gender, & Sex Studies", 
+            "target": "PEER TUTORING", 
+            "value": 1
+        }, 
+        {
+            "source": "Psychology - BA", 
+            "target": "PEER TUTORING", 
+            "value": 1
+        }, 
+        {
+            "source": "International Affairs", 
+            "target": "PEER TUTORING", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BX", 
+            "target": "PEER TUTORING", 
+            "value": 1
+        }, 
+        {
+            "source": "History", 
+            "target": "PEER TUTORING", 
+            "value": 2
+        }, 
+        {
+            "source": "Mathematics - BS", 
+            "target": "PEER TUTORING", 
+            "value": 1
+        }, 
+        {
+            "source": "Political Science", 
+            "target": "PEER TUTORING", 
+            "value": 1
+        }, 
+        {
+            "source": "Philosophy", 
+            "target": "PEER TUTORING", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "INTRO SHAKESPEARE", 
+            "value": 17
+        }, 
+        {
+            "source": "Secondary Education", 
+            "target": "INTRO SHAKESPEARE", 
+            "value": 6
+        }, 
+        {
+            "source": "Electronic Media", 
+            "target": "INTRO SHAKESPEARE", 
+            "value": 1
+        }, 
+        {
+            "source": "Exploratory", 
+            "target": "INTRO SHAKESPEARE", 
+            "value": 2
+        }, 
+        {
+            "source": "Theater Design and Production", 
+            "target": "INTRO SHAKESPEARE", 
+            "value": 3
+        }, 
+        {
+            "source": "Industrial Design", 
+            "target": "INTRO SHAKESPEARE", 
+            "value": 1
+        }, 
+        {
+            "source": "Neuroscience - BS", 
+            "target": "INTRO SHAKESPEARE", 
+            "value": 1
+        }, 
+        {
+            "source": "Interdisciplinary", 
+            "target": "INTRO SHAKESPEARE", 
+            "value": 1
+        }, 
+        {
+            "source": "MISC", 
+            "target": "INTRO SHAKESPEARE", 
+            "value": 2
+        }, 
+        {
+            "source": "Psychology - BA", 
+            "target": "INTRO SHAKESPEARE", 
+            "value": 1
+        }, 
+        {
+            "source": "Drama", 
+            "target": "POETRY AND SOUND", 
+            "value": 1
+        }, 
+        {
+            "source": "Communication", 
+            "target": "POETRY AND SOUND", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "POETRY AND SOUND", 
+            "value": 8
+        }, 
+        {
+            "source": "Anthropology", 
+            "target": "POETRY AND SOUND", 
+            "value": 1
+        }, 
+        {
+            "source": "MISC", 
+            "target": "POETRY AND SOUND", 
+            "value": 1
+        }, 
+        {
+            "source": "Psychology - BS", 
+            "target": "POETRY AND SOUND", 
+            "value": 2
+        }, 
+        {
+            "source": "Criminal Justice", 
+            "target": "POETRY AND SOUND", 
+            "value": 1
+        }, 
+        {
+            "source": "Liberal Arts", 
+            "target": "POETRY AND SOUND", 
+            "value": 1
+        }, 
+        {
+            "source": "Journalism", 
+            "target": "POETRY AND SOUND", 
+            "value": 1
+        }, 
+        {
+            "source": "Philosophy", 
+            "target": "POETRY AND SOUND", 
+            "value": 1
+        }, 
+        {
+            "source": "Neuroscience - BS", 
+            "target": "POETRY AND SOUND", 
+            "value": 1
+        }, 
+        {
+            "source": "Liberal Arts", 
+            "target": "WRITING SCIFI & FANTASY", 
+            "value": 2
+        }, 
+        {
+            "source": "Anthropology", 
+            "target": "WRITING SCIFI & FANTASY", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "WRITING SCIFI & FANTASY", 
+            "value": 6
+        }, 
+        {
+            "source": "English Literature", 
+            "target": "WRITING SCIFI & FANTASY", 
+            "value": 2
+        }, 
+        {
+            "source": "Journalism", 
+            "target": "WRITING SCIFI & FANTASY", 
+            "value": 1
+        }, 
+        {
+            "source": "Electronic Media", 
+            "target": "WRITING SCIFI & FANTASY", 
+            "value": 1
+        }, 
+        {
+            "source": "Asian Studies", 
+            "target": "WRITING SCIFI & FANTASY", 
+            "value": 1
+        }, 
+        {
+            "source": "Psychology - BS", 
+            "target": "WRITING SCIFI & FANTASY", 
+            "value": 1
+        }, 
+        {
+            "source": "Psychology - BA", 
+            "target": "WRITING SCIFI & FANTASY", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "INTR TO CRIT THEORY", 
+            "value": 12
+        }, 
+        {
+            "source": "Industrial Design", 
+            "target": "INTR TO CRIT THEORY", 
+            "value": 5
+        }, 
+        {
+            "source": "Non-Matriculated", 
+            "target": "INTR TO CRIT THEORY", 
+            "value": 2
+        }, 
+        {
+            "source": "College Credit Plus", 
+            "target": "INTR TO CRIT THEORY", 
+            "value": 1
+        }, 
+        {
+            "source": "Senior Audit", 
+            "target": "INTR TO CRIT THEORY", 
+            "value": 1
+        }, 
+        {
+            "source": "Secondary Education", 
+            "target": "INTR TO CRIT THEORY", 
+            "value": 1
+        }, 
+        {
+            "source": "Physics (Astrophysics)", 
+            "target": "INTR TO CRIT THEORY", 
+            "value": 1
+        }, 
+        {
+            "source": "Chemistry-ACS", 
+            "target": "INTR TO CRIT THEORY", 
+            "value": 1
+        }, 
+        {
+            "source": "Liberal Arts", 
+            "target": "INTR TO CRIT THEORY", 
+            "value": 1
+        }, 
+        {
+            "source": "Graphic Communication Design", 
+            "target": "WRITING LOVE POEM", 
+            "value": 1
+        }, 
+        {
+            "source": "Liberal Arts", 
+            "target": "WRITING LOVE POEM", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "WRITING LOVE POEM", 
+            "value": 5
+        }, 
+        {
+            "source": "Psychology - BS", 
+            "target": "WRITING LOVE POEM", 
+            "value": 1
+        }, 
+        {
+            "source": "Journalism", 
+            "target": "WRITING LOVE POEM", 
+            "value": 2
+        }, 
+        {
+            "source": "Music", 
+            "target": "WRITING LOVE POEM", 
+            "value": 1
+        }, 
+        {
+            "source": "Electronic Media", 
+            "target": "WRTG SHORT SHORTS", 
+            "value": 1
+        }, 
+        {
+            "source": "Interdisciplinary", 
+            "target": "WRTG SHORT SHORTS", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "WRTG SHORT SHORTS", 
+            "value": 10
+        }, 
+        {
+            "source": "Spanish", 
+            "target": "WRTG SHORT SHORTS", 
+            "value": 1
+        }, 
+        {
+            "source": "Exploratory", 
+            "target": "WRTG SHORT SHORTS", 
+            "value": 1
+        }, 
+        {
+            "source": "Industrial Design", 
+            "target": "FILM COMEDY", 
+            "value": 4
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "FILM COMEDY", 
+            "value": 3
+        }, 
+        {
+            "source": "Fine Arts - Art", 
+            "target": "FILM COMEDY", 
+            "value": 2
+        }, 
+        {
+            "source": "Interdisciplinary", 
+            "target": "FILM COMEDY", 
+            "value": 1
+        }, 
+        {
+            "source": "Ballet", 
+            "target": "FILM COMEDY", 
+            "value": 1
+        }, 
+        {
+            "source": "Women's, Gender, & Sex Studies", 
+            "target": "FILM COMEDY", 
+            "value": 1
+        }, 
+        {
+            "source": "Communication", 
+            "target": "FILM COMEDY", 
+            "value": 1
+        }, 
+        {
+            "source": "Marketing", 
+            "target": "FILM COMEDY", 
+            "value": 1
+        }, 
+        {
+            "source": "Aerospace Engineering", 
+            "target": "FILM COMEDY", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "WRITING FICTION IN DIGITAL AGE", 
+            "value": 6
+        }, 
+        {
+            "source": "Early Childhood Education", 
+            "target": "WRITING FICTION IN DIGITAL AGE", 
+            "value": 1
+        }, 
+        {
+            "source": "Comm Sciences and Disorders", 
+            "target": "WRITING FICTION IN DIGITAL AGE", 
+            "value": 2
+        }, 
+        {
+            "source": "Psychology - BA", 
+            "target": "WRITING FICTION IN DIGITAL AGE", 
+            "value": 1
+        }, 
+        {
+            "source": "Computer Science", 
+            "target": "WRITING FICTION IN DIGITAL AGE", 
+            "value": 1
+        }, 
+        {
+            "source": "Electrical Engineering Tech", 
+            "target": "WRITING FICTION IN DIGITAL AGE", 
+            "value": 1
+        }, 
+        {
+            "source": "Physics (Astrophysics)", 
+            "target": "WRITING FICTION IN DIGITAL AGE", 
+            "value": 1
+        }, 
+        {
+            "source": "Music", 
+            "target": "WRITING FICTION IN DIGITAL AGE", 
+            "value": 1
+        }, 
+        {
+            "source": "Anthropology", 
+            "target": "WRITING FICTION IN DIGITAL AGE", 
+            "value": 1
+        }, 
+        {
+            "source": "Exploratory", 
+            "target": "CREATIVE WRT FROM REAL LIFE", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "CREATIVE WRT FROM REAL LIFE", 
+            "value": 7
+        }, 
+        {
+            "source": "Journalism", 
+            "target": "CREATIVE WRT FROM REAL LIFE", 
+            "value": 2
+        }, 
+        {
+            "source": "MISC", 
+            "target": "CREATIVE WRT FROM REAL LIFE", 
+            "value": 1
+        }, 
+        {
+            "source": "Communication", 
+            "target": "CREATIVE WRT FROM REAL LIFE", 
+            "value": 1
+        }, 
+        {
+            "source": "Political Science", 
+            "target": "CREATIVE WRT FROM REAL LIFE", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BX", 
+            "target": "CREATIVE WRT FROM REAL LIFE", 
+            "value": 1
+        }, 
+        {
+            "source": "Women's, Gender, & Sex Studies", 
+            "target": "CREATIVE WRT FROM REAL LIFE", 
+            "value": 1
+        }, 
+        {
+            "source": "Musical Theater", 
+            "target": "WRT COMIC POETRY & PROSE", 
+            "value": 1
+        }, 
+        {
+            "source": "Environmental Studies", 
+            "target": "WRT COMIC POETRY & PROSE", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "WRT COMIC POETRY & PROSE", 
+            "value": 5
+        }, 
+        {
+            "source": "Spanish", 
+            "target": "WRT COMIC POETRY & PROSE", 
+            "value": 1
+        }, 
+        {
+            "source": "Environmental Engineering", 
+            "target": "WRT COMIC POETRY & PROSE", 
+            "value": 1
+        }, 
+        {
+            "source": "Biological Sciences - BS", 
+            "target": "WRT COMIC POETRY & PROSE", 
+            "value": 1
+        }, 
+        {
+            "source": "Electronic Media", 
+            "target": "WRT COMIC POETRY & PROSE", 
+            "value": 1
+        }, 
+        {
+            "source": "Arabic Language and Culture", 
+            "target": "INTR RHET/PROF WRIT", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "INTR RHET/PROF WRIT", 
+            "value": 9
+        }, 
+        {
+            "source": "Economics", 
+            "target": "INTR RHET/PROF WRIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Psychology - BS", 
+            "target": "SCI WRITING IN BEHAV SCIENCES", 
+            "value": 7
+        }, 
+        {
+            "source": "Arabic Language and Culture", 
+            "target": "SCI WRITING IN BEHAV SCIENCES", 
+            "value": 1
+        }, 
+        {
+            "source": "Psychology - BA", 
+            "target": "SCI WRITING IN BEHAV SCIENCES", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "MODERN ASIAN FICTION", 
+            "value": 5
+        }, 
+        {
+            "source": "Middle Childhood Education", 
+            "target": "MODERN ASIAN FICTION", 
+            "value": 2
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "WEB AUTHORING", 
+            "value": 8
+        }, 
+        {
+            "source": "Journalism", 
+            "target": "WEB AUTHORING", 
+            "value": 1
+        }, 
+        {
+            "source": "Medical Sciences", 
+            "target": "WEB AUTHORING", 
+            "value": 1
+        }, 
+        {
+            "source": "Exploratory", 
+            "target": "WEB AUTHORING", 
+            "value": 1
+        }, 
+        {
+            "source": "Interdisciplinary", 
+            "target": "WEB AUTHORING", 
+            "value": 1
+        }, 
+        {
+            "source": "Communication", 
+            "target": "WEB AUTHORING", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "DESKTOP PUBLISHING", 
+            "value": 7
+        }, 
+        {
+            "source": "Communication", 
+            "target": "DESKTOP PUBLISHING", 
+            "value": 27
+        }, 
+        {
+            "source": "Journalism", 
+            "target": "DESKTOP PUBLISHING", 
+            "value": 2
+        }, 
+        {
+            "source": "Arabic Language and Culture", 
+            "target": "DESKTOP PUBLISHING", 
+            "value": 1
+        }, 
+        {
+            "source": "Senior Audit", 
+            "target": "DESKTOP PUBLISHING", 
+            "value": 1
+        }, 
+        {
+            "source": "Marketing", 
+            "target": "DESKTOP PUBLISHING", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "RHET OF SOC MEDIA", 
+            "value": 6
+        }, 
+        {
+            "source": "Secondary Education", 
+            "target": "RHET OF SOC MEDIA", 
+            "value": 1
+        }, 
+        {
+            "source": "Criminal Justice", 
+            "target": "RHET OF SOC MEDIA", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BX", 
+            "target": "RHET OF SOC MEDIA", 
+            "value": 1
+        }, 
+        {
+            "source": "Communication", 
+            "target": "RHET OF SOC MEDIA", 
+            "value": 1
+        }, 
+        {
+            "source": "Biomedical Engineering", 
+            "target": "RHET OF SOC MEDIA", 
+            "value": 1
+        }, 
+        {
+            "source": "Interdisciplinary", 
+            "target": "RHET OF SOC MEDIA", 
+            "value": 1
+        }, 
+        {
+            "source": "Secondary Education", 
+            "target": "WRITING WITH STYLE", 
+            "value": 15
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "WRITING WITH STYLE", 
+            "value": 4
+        }, 
+        {
+            "source": "Biological Sciences - BS", 
+            "target": "WRITING WITH STYLE", 
+            "value": 1
+        }, 
+        {
+            "source": "Interdisciplinary", 
+            "target": "WRITING WITH STYLE", 
+            "value": 1
+        }, 
+        {
+            "source": "Fine Arts - Art", 
+            "target": "FORMS OF FICTION", 
+            "value": 2
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "FORMS OF FICTION", 
+            "value": 14
+        }, 
+        {
+            "source": "Journalism", 
+            "target": "FORMS OF FICTION", 
+            "value": 1
+        }, 
+        {
+            "source": "Liberal Arts", 
+            "target": "FORMS OF FICTION", 
+            "value": 1
+        }, 
+        {
+            "source": "Criminal Justice", 
+            "target": "FORMS OF FICTION", 
+            "value": 1
+        }, 
+        {
+            "source": "Non-Matriculated", 
+            "target": "FORMS OF FICTION", 
+            "value": 1
+        }, 
+        {
+            "source": "Geology - BS", 
+            "target": "FORMS OF FICTION", 
+            "value": 1
+        }, 
+        {
+            "source": "Electrical Engineering Tech", 
+            "target": "FORMS OF FICTION", 
+            "value": 1
+        }, 
+        {
+            "source": "Biological Sciences - BS", 
+            "target": "LIT AND MEDICINE", 
+            "value": 4
+        }, 
+        {
+            "source": "Psychology - BA", 
+            "target": "LIT AND MEDICINE", 
+            "value": 2
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "LIT AND MEDICINE", 
+            "value": 3
+        }, 
+        {
+            "source": "Psychology - BS", 
+            "target": "LIT AND MEDICINE", 
+            "value": 2
+        }, 
+        {
+            "source": "MISC", 
+            "target": "LIT AND MEDICINE", 
+            "value": 1
+        }, 
+        {
+            "source": "Exploratory", 
+            "target": "LIT AND MEDICINE", 
+            "value": 1
+        }, 
+        {
+            "source": "Interdisciplinary", 
+            "target": "LIT AND MEDICINE", 
+            "value": 1
+        }, 
+        {
+            "source": "Pre Pharmacy", 
+            "target": "LIT AND MEDICINE", 
+            "value": 1
+        }, 
+        {
+            "source": "Medical Laboratory Science", 
+            "target": "LIT AND MEDICINE", 
+            "value": 1
+        }, 
+        {
+            "source": "Biochemistry", 
+            "target": "LIT AND MEDICINE", 
+            "value": 1
+        }, 
+        {
+            "source": "Communication", 
+            "target": "LIT AND MEDICINE", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "INDIVIDUAL WORK", 
+            "value": 1
+        }, 
+        {
+            "source": "Environmental Studies", 
+            "target": "INDIVIDUAL WORK", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "SEMINAR: BRIT LIT", 
+            "value": 11
+        }, 
+        {
+            "source": "Neuroscience - BS", 
+            "target": "SEMINAR: BRIT LIT", 
+            "value": 1
+        }, 
+        {
+            "source": "Liberal Arts", 
+            "target": "INTERMED CW FICTION", 
+            "value": 2
+        }, 
+        {
+            "source": "Architecture", 
+            "target": "INTERMED CW FICTION", 
+            "value": 1
+        }, 
+        {
+            "source": "MISC", 
+            "target": "INTERMED CW FICTION", 
+            "value": 2
+        }, 
+        {
+            "source": "Information Systems", 
+            "target": "INTERMED CW FICTION", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "INTERMED CW FICTION", 
+            "value": 4
+        }, 
+        {
+            "source": "Electrical Engineering Tech", 
+            "target": "INTERMED CW FICTION", 
+            "value": 1
+        }, 
+        {
+            "source": "Graphic Communication Design", 
+            "target": "INTERMED CW FICTION", 
+            "value": 1
+        }, 
+        {
+            "source": "Interdisciplinary", 
+            "target": "INTERMED CW FICTION", 
+            "value": 1
+        }, 
+        {
+            "source": "Psychology - BS", 
+            "target": "INTERMED CW FICTION", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "GNDR/SEX/CULTURE", 
+            "value": 1
+        }, 
+        {
+            "source": "Drama", 
+            "target": "GNDR/SEX/CULTURE", 
+            "value": 1
+        }, 
+        {
+            "source": "Information Technology", 
+            "target": "BUSINESS WRITING", 
+            "value": 23
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "BUSINESS WRITING", 
+            "value": 6
+        }, 
+        {
+            "source": "Organizational Leadership", 
+            "target": "BUSINESS WRITING", 
+            "value": 25
+        }, 
+        {
+            "source": "Interdisciplinary", 
+            "target": "BUSINESS WRITING", 
+            "value": 1
+        }, 
+        {
+            "source": "Psychology - BA", 
+            "target": "BUSINESS WRITING", 
+            "value": 2
+        }, 
+        {
+            "source": "Journalism", 
+            "target": "BUSINESS WRITING", 
+            "value": 1
+        }, 
+        {
+            "source": "Communication", 
+            "target": "BUSINESS WRITING", 
+            "value": 1
+        }, 
+        {
+            "source": "Operations Management", 
+            "target": "BUSINESS WRITING", 
+            "value": 1
+        }, 
+        {
+            "source": "Biomedical Engineering", 
+            "target": "TECH/SCI WRITING", 
+            "value": 17
+        }, 
+        {
+            "source": "Computer Engineering", 
+            "target": "TECH/SCI WRITING", 
+            "value": 23
+        }, 
+        {
+            "source": "Computer Science", 
+            "target": "TECH/SCI WRITING", 
+            "value": 13
+        }, 
+        {
+            "source": "Mechanical Engineering", 
+            "target": "TECH/SCI WRITING", 
+            "value": 75
+        }, 
+        {
+            "source": "Electrical Engineering", 
+            "target": "TECH/SCI WRITING", 
+            "value": 74
+        }, 
+        {
+            "source": "Civil Engineering", 
+            "target": "TECH/SCI WRITING", 
+            "value": 23
+        }, 
+        {
+            "source": "Chemical Engineering", 
+            "target": "TECH/SCI WRITING", 
+            "value": 36
+        }, 
+        {
+            "source": "Exploratory", 
+            "target": "TECH/SCI WRITING", 
+            "value": 8
+        }, 
+        {
+            "source": "Aerospace Engineering", 
+            "target": "TECH/SCI WRITING", 
+            "value": 11
+        }, 
+        {
+            "source": "Mechanical Engineering Tech", 
+            "target": "TECH/SCI WRITING", 
+            "value": 25
+        }, 
+        {
+            "source": "Electrical Engineering Tech", 
+            "target": "TECH/SCI WRITING", 
+            "value": 3
+        }, 
+        {
+            "source": "Information Technology", 
+            "target": "TECH/SCI WRITING", 
+            "value": 19
+        }, 
+        {
+            "source": "Freshman Engineering Program", 
+            "target": "TECH/SCI WRITING", 
+            "value": 1
+        }, 
+        {
+            "source": "Environmental Engineering", 
+            "target": "TECH/SCI WRITING", 
+            "value": 6
+        }, 
+        {
+            "source": "Non-Matriculated", 
+            "target": "TECH/SCI WRITING", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "TECH/SCI WRITING", 
+            "value": 3
+        }, 
+        {
+            "source": "Psychology - BS", 
+            "target": "TECH/SCI WRITING", 
+            "value": 1
+        }, 
+        {
+            "source": "Environmental Studies", 
+            "target": "TECH/SCI WRITING", 
+            "value": 2
+        }, 
+        {
+            "source": "Interdisciplinary", 
+            "target": "TECH/SCI WRITING", 
+            "value": 2
+        }, 
+        {
+            "source": "Mathematics - BS", 
+            "target": "TECH/SCI WRITING", 
+            "value": 1
+        }, 
+        {
+            "source": "Arabic Language and Culture", 
+            "target": "INTERN RHET/PW", 
+            "value": 1
+        }, 
+        {
+            "source": "Liberal Arts", 
+            "target": "INTERN RHET/PW", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "INTERN RHET/PW", 
+            "value": 2
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "INTERNSHIP ENGLISH", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "RHET/PW CAPSTONE", 
+            "value": 11
+        }, 
+        {
+            "source": "Interdisciplinary", 
+            "target": "RHET/PW CAPSTONE", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "SR WRIT SEM: CW AND RESEARCH", 
+            "value": 11
+        }, 
+        {
+            "source": "Communication", 
+            "target": "SR WRIT SEM: CW AND RESEARCH", 
+            "value": 1
+        }, 
+        {
+            "source": "Liberal Arts", 
+            "target": "SR WRIT SEM: CW AND RESEARCH", 
+            "value": 1
+        }, 
+        {
+            "source": "Psychology - BA", 
+            "target": "SR WRIT SEM: CW AND RESEARCH", 
+            "value": 1
+        }, 
+        {
+            "source": "Social Work", 
+            "target": "SR WRIT SEM: CW AND RESEARCH", 
+            "value": 1
+        }, 
+        {
+            "source": "English Literature - BA", 
+            "target": "SR SEMINAR POETRY", 
+            "value": 7
+        }, 
+        {
+            "source": "Liberal Arts", 
+            "target": "SR SEMINAR POETRY", 
+            "value": 2
+        }, 
+        {
+            "source": "Electronic Media", 
+            "target": "SR SEMINAR POETRY", 
+            "value": 1
+        }, 
+        {
+            "source": "Architecture", 
+            "target": "SR SEMINAR POETRY", 
+            "value": 1
+        }, 
+        {
+            "source": "English & Comp Literature", 
+            "target": "GRAD FICTION WKSHP", 
+            "value": 7
+        }, 
+        {
+            "source": "Non-Matriculated", 
+            "target": "GRAD FICTION WKSHP", 
+            "value": 1
+        }, 
+        {
+            "source": "English & Comp Literature", 
+            "target": "GRAD POET WKSHOP", 
+            "value": 8
+        }, 
+        {
+            "source": "English & Comp Literature", 
+            "target": "THEORIES: COMPOSING", 
+            "value": 5
+        }, 
+        {
+            "source": "Non-Matriculated", 
+            "target": "THEORIES: COMPOSING", 
+            "value": 1
+        }, 
+        {
+            "source": "MISC", 
+            "target": "THEORIES: COMPOSING", 
+            "value": 1
+        }, 
+        {
+            "source": "Interdisciplinary", 
+            "target": "THEORIES: COMPOSING", 
+            "value": 1
+        }, 
+        {
+            "source": "English & Comp Literature", 
+            "target": "GRAD NONFICTION WKSHP", 
+            "value": 3
+        }, 
+        {
+            "source": "Non-Matriculated", 
+            "target": "GRAD NONFICTION WKSHP", 
+            "value": 1
+        }, 
+        {
+            "source": "Women's, Gender, & Sex Studies", 
+            "target": "GRAD NONFICTION WKSHP", 
+            "value": 1
+        }, 
+        {
+            "source": "MA Professional Writing", 
+            "target": "CONTENT MANAGEMENT", 
+            "value": 13
+        }, 
+        {
+            "source": "MA Professional Writing", 
+            "target": "INTERNSHIP", 
+            "value": 2
+        }, 
+        {
+            "source": "English & Comp Literature", 
+            "target": "TEACH COLL WRITING", 
+            "value": 7
+        }, 
+        {
+            "source": "English & Comp Literature", 
+            "target": "MTHD TEACH CW", 
+            "value": 10
+        }, 
+        {
+            "source": "Non-Matriculated", 
+            "target": "MTHD TEACH CW", 
+            "value": 1
+        }, 
+        {
+            "source": "English & Comp Literature", 
+            "target": "RHETORIC", 
+            "value": 3
+        }, 
+        {
+            "source": "MA Professional Writing", 
+            "target": "RHETORIC", 
+            "value": 6
+        }, 
+        {
+            "source": "Non-Matriculated", 
+            "target": "SCIENCE & HEALTH", 
+            "value": 1
+        }, 
+        {
+            "source": "MA Professional Writing", 
+            "target": "SCIENCE & HEALTH", 
+            "value": 12
+        }, 
+        {
+            "source": "English & Comp Literature", 
+            "target": "SCIENCE & HEALTH", 
+            "value": 1
+        }, 
+        {
+            "source": "Communication", 
+            "target": "SCIENCE & HEALTH", 
+            "value": 2
+        }, 
+        {
+            "source": "MISC", 
+            "target": "SCIENCE & HEALTH", 
+            "value": 1
+        }, 
+        {
+            "source": "English & Comp Literature", 
+            "target": "THEORY SHORT STORY", 
+            "value": 13
+        }, 
+        {
+            "source": "Non-Matriculated", 
+            "target": "THEORY SHORT STORY", 
+            "value": 1
+        }, 
+        {
+            "source": "English & Comp Literature", 
+            "target": "CONTEMP AMER FICT", 
+            "value": 12
+        }, 
+        {
+            "source": "Non-Matriculated", 
+            "target": "CONTEMP AMER FICT", 
+            "value": 1
+        }, 
+        {
+            "source": "MA Professional Writing", 
+            "target": "PROF WRIT CAPSTONE", 
+            "value": 7
+        }, 
+        {
+            "source": "English & Comp Literature", 
+            "target": "PROF WRIT CAPSTONE", 
+            "value": 1
+        }, 
+        {
+            "source": "English & Comp Literature", 
+            "target": "GENDER/SEXUALITY/CULTURE", 
+            "value": 9
+        }, 
+        {
+            "source": "English & Comp Literature", 
+            "target": "PROBS AM REAL & NAT", 
+            "value": 9
+        }, 
+        {
+            "source": "Interdisciplinary", 
+            "target": "PROBS AM REAL & NAT", 
+            "value": 1
+        }, 
+        {
+            "source": "Non-Matriculated", 
+            "target": "PROBS AM REAL & NAT", 
+            "value": 1
+        }, 
+        {
+            "source": "English & Comp Literature", 
+            "target": "MA THESIS", 
+            "value": 3
+        }, 
+        {
+            "source": "English & Comp Literature", 
+            "target": "TEACHING", 
+            "value": 46
+        }, 
+        {
+            "source": "English & Comp Literature", 
+            "target": "PROF PRACTICE", 
+            "value": 4
+        }, 
+        {
+            "source": "MA Professional Writing", 
+            "target": "PROF PRACTICE", 
+            "value": 6
+        }, 
+        {
+            "source": "English & Comp Literature", 
+            "target": "INDEPENDENT STUDY", 
+            "value": 4
+        }, 
+        {
+            "source": "Interdisciplinary", 
+            "target": "INDEPENDENT STUDY", 
+            "value": 1
+        }, 
+        {
+            "source": "MA Professional Writing", 
+            "target": "INDEPENDENT STUDY", 
+            "value": 1
+        }, 
+        {
+            "source": "English & Comp Literature", 
+            "target": "RESEARCH", 
+            "value": 36
+        }
+    ]
+}
